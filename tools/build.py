@@ -51,6 +51,10 @@ def answer(typ, key):
         return alts[0], ("Official key also accepts: " + " or ".join(", ".join(a) for a in alts[1:])) if len(alts) > 1 else None
     return (alts[0][0] if len(alts) == 1 else [a[0] for a in alts]), None
 
+def safe_html(h):
+    """Escape any '<' that does not start one of the simple tags solutions use (maths like a<b)."""
+    return re.sub(r"<(?!/?(p|b|i|br|sub|sup|span|strong|em)\b)", "&lt;", h)
+
 solutions = {}
 for f in sorted((OFF / "solutions").glob("*.json")) if (OFF / "solutions").exists() else []:
     solutions.update(json.loads(f.read_text()))
@@ -91,7 +95,7 @@ for year in sorted(PDF, reverse=True):
             count += 1
             sol = solutions.get(f"{pkey}-{n}")
             if sol:
-                exp[item["id"]] = sol
+                exp[item["id"]] = safe_html(sol)
         papers.append({"key": pkey, "title": f"GATE ME {year}" + (f" Set {s}" if nsets > 1 else ""), "kind": "paper",
                        "year": year, "set": s if nsets > 1 else None, "count": count, "src": SRC + PDF[year]})
 
