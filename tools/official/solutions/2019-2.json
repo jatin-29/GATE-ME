@@ -62,5 +62,6 @@
  "2019-2-62": "<p>Maximum draft \\(=\\mu^2R=0.05^2\\times300=0.75\\) mm, so the thinnest exit is \\(2-0.75=1.25\\) mm.</p>",
  "2019-2-63": "<p>MRR \\(=\\dfrac\\pi4(10)^2\\times0.25\\times\\dfrac{1200}{60}=392.7\\ \\text{mm}^3/\\text{s}\\).</p><p>Power \\(=0.7\\times392.7=274.9\\) W.</p>",
  "2019-2-64": "<p>\\(r=0.125/0.22=0.568\\); \\(\\tan\\phi=\\dfrac{r\\cos10^\\circ}{1-r\\sin10^\\circ}=0.621\\Rightarrow\\phi=31.8^\\circ\\).</p><p>Merchant: \\(2\\phi+\\beta-\\alpha=90^\\circ\\Rightarrow\\beta=36.3^\\circ\\), \\(\\mu=\\tan\\beta=0.74\\).</p>",
- "2019-2-65": "<p>Current: \\(\\dfrac{10000}{400}\\times400+\\dfrac{400}{2}\\times24=10000+4800=14800\\).</p><p>At the EOQ: \\(\\sqrt{2DSH}=\\sqrt{2\\times10000\\times400\\times24}=13856.4\\).</p><p>Saving \\(=943.6\\).</p>"
+ "2019-2-65": "<p>Current: \\(\\dfrac{10000}{400}\\times400+\\dfrac{400}{2}\\times24=10000+4800=14800\\).</p><p>At the EOQ: \\(\\sqrt{2DSH}=\\sqrt{2\\times10000\\times400\\times24}=13856.4\\).</p><p>Saving \\(=943.6\\).</p>",
+ "2019-2-20": "<p><b>View factor</b> \\(F_{12}\\) is the fraction of radiation leaving surface 1 that reaches surface 2.</p><p>Sphere 1 is convex: it cannot see any part of itself, so \\(F_{11}=0\\). It is completely enclosed by sphere 2, so all its radiation must land on sphere 2.</p><p>Summation rule: \\(F_{11}+F_{12}=1\\Rightarrow F_{12}=1\\).</p><p>(The diameters are needed only for \\(F_{21}=\\dfrac{A_1}{A_2}F_{12}=\\left(\\dfrac{0.1}{0.4}\\right)^2=0.0625\\), which is option (A) — a common trap.)</p><p><b>Answer:</b> 1.0 — option (D).</p>"
 }
