@@ -1,0 +1,522 @@
+[
+ {
+  "set": 1,
+  "n": 1,
+  "img": "me2026-s1-q1.webp",
+  "w": 870,
+  "h": 671,
+  "text": "Q.1 ‘The team ______ more than 300 runs in 20 overs ___________ rains. However, some players needed to improve their batting skills.’ Choose the option with the correct sequence of words to fill the blanks. (A) score; despite (B) scoring; instead of (C) scored; despite (D) scoring; in spite of"
+ },
+ {
+  "set": 1,
+  "n": 2,
+  "img": "me2026-s1-q2.webp",
+  "w": 870,
+  "h": 786,
+  "text": "Q.2 If a positive real 𝑥 satisfies the following equation log2 𝑥+ log√2 𝑥= 48, then the value of is _________________ 𝑥 216 (A) (B) 416 214 (C) (D) 414"
+ },
+ {
+  "set": 1,
+  "n": 3,
+  "img": "me2026-s1-q3.webp",
+  "w": 870,
+  "h": 1266,
+  "text": "Q.3 The next figure (indicated by ‘?’) in the sequence is (A) (B) (C) (D)"
+ },
+ {
+  "set": 1,
+  "n": 4,
+  "img": "me2026-s1-q4.webp",
+  "w": 870,
+  "h": 672,
+  "text": "Q.4 ‘All the mangoes in the basket are good.’ If the above statement is false, then which one of the following statements is necessarily true? (A) All the mangoes in the basket are not good. (B) No mango in the basket is good. (C) In the basket, some of the mangoes are good and some are not good. (D) There exists at least one mango in the basket that is not good."
+ },
+ {
+  "set": 1,
+  "n": 5,
+  "img": "me2026-s1-q5.webp",
+  "w": 870,
+  "h": 732,
+  "text": "Q.5 Consider the following statements about four numbers: (S1) The average of the four numbers is 25 (S2) Each number is at most 40 (S3) Each number is at least 20 Choose the option that is necessarily correct. (A) (S1) and (S2) together imply (S3) (B) (S2) and (S3) together imply (S1) (C) (S1) and (S3) together imply (S2) (D) (S1) implies (S3)"
+ },
+ {
+  "set": 1,
+  "n": 6,
+  "img": "me2026-s1-q6.webp",
+  "w": 870,
+  "h": 724,
+  "text": "Q.6 ‘People are crowding around ___ pit into which ___ elephant has fallen. I have never seen an elephant looking more bewildered ___ miserable. Here it is in a most undignified position, thrust into a pit and made to look up ___ a vast, curiosity-stricken crowd.’ Choose the option with the correct sequence of words to fill the blanks. (A) an; a; at; and (B) a; an; and; at (C) and; a; an; at (D) at; a; an; and"
+ },
+ {
+  "set": 1,
+  "n": 7,
+  "img": "me2026-s1-q7.webp",
+  "w": 870,
+  "h": 1098,
+  "text": "Q.7 The table lists the unit selling price of five products P, Q, R, S, and T. On a particular day, 250 items were sold with the average selling price of Rs. 60. The following observations were made: (i) The quantity of S sold was twice that of T. (ii) The quantity of R sold was thrice that of T. (iii) The quantity of Q sold was four times that of T. Product P Q R S T Unit selling price (Rs.) 100 50 40 60 60 What is the quantity of product P sold on that day? (A) 40 (B) 50 (C) 60 (D) 70"
+ },
+ {
+  "set": 1,
+  "n": 8,
+  "img": "me2026-s1-q8.webp",
+  "w": 870,
+  "h": 1123,
+  "text": "Q.8 Consider a string P of length 𝑙 that is laid out as a straight-line segment. Another string K is laid out as a semicircular arc with string P as its diameter, as represented in Figure (i). When both the strings are shortened by a length 𝑥 they can be re-arranged such that the shortened string K forms a full circle with the shortened string P as its diameter, as represented in Figure (ii). The value of 𝑥/𝑙 is __________ (A) 𝜋 (B) 𝜋−1 2𝜋 (C) 𝜋 2(𝜋−1) (D) 𝜋 𝜋−1"
+ },
+ {
+  "set": 1,
+  "n": 9,
+  "img": "me2026-s1-q9.webp",
+  "w": 870,
+  "h": 1196,
+  "text": "Q.9 The Roman senator Meritorius, his brother, his son, and his daughter have varying oratory skill levels. They are seated in rows and columns as shown in the figure with exactly one person sitting in each box. It is known that (i) Meritorius’ daughter and his brother are seated in the same column. (ii) His son is seated diagonally across the sibling of the worst orator. (iii) The best and worst orators are seated in the same row. Who is the best orator? (A) Meritorius (B) Meritorius’ brother (C) Meritorius’ son (D) Meritorius’ daughter"
+ },
+ {
+  "set": 1,
+  "n": 10,
+  "img": "me2026-s1-q10.webp",
+  "w": 870,
+  "h": 1248,
+  "text": "Q.10 Which one of the patterns labelled P, Q, R, and S is used to generate the following figure? P Q R S (A) P (B) Q (C) R (D) S"
+ },
+ {
+  "set": 1,
+  "n": 11,
+  "img": "me2026-s1-q11.webp",
+  "w": 870,
+  "h": 568,
+  "text": "Q.11 Domain 𝐴 is bounded by curve 𝑥2 = 4𝑦, ordinate 𝑥= 2, and 𝑥 axis. The value of is ∬𝑦 𝑑𝑥𝑑𝑦 𝐴 (A) 1/5 (B) 1/3 (C) 5/12 (D) 1/2"
+ },
+ {
+  "set": 1,
+  "n": 12,
+  "img": "me2026-s1-q12.webp",
+  "w": 870,
+  "h": 697,
+  "text": "Q.12 Let be a scalar function. Then, is 𝜑 ∇𝜑 (A) always perpendicular to the surface of constant 𝜑 (B) always parallel to the surface of constant 𝜑 (C) the minimum rate of change of scalar 𝜑 (D) always zero"
+ },
+ {
+  "set": 1,
+  "n": 13,
+  "img": "me2026-s1-q13.webp",
+  "w": 870,
+  "h": 651,
+  "text": "Q.13 The order and degree of the following differential equation are 𝑚 and 𝑛, respectively. 2 𝜕3𝜑 𝜕2𝜑 (𝜕2𝜑 𝜕𝜑 𝜕𝜑 + 𝜕𝑥+ 𝜕𝑥2) + 𝜕𝑦= 0 𝜕𝑥3 𝜕𝑦2 The value of is (𝑚−𝑛) (A) 2 (B) 3 (C) 1 (D) 0"
+ },
+ {
+  "set": 1,
+  "n": 14,
+  "img": "me2026-s1-q14.webp",
+  "w": 870,
+  "h": 645,
+  "text": "Q.14 Newton-Raphson method for solving algebraic equations is based on (A) Taylor series (B) Fourier series (C) Laurent series (D) Power series"
+ },
+ {
+  "set": 1,
+  "n": 15,
+  "img": "me2026-s1-q15.webp",
+  "w": 870,
+  "h": 615,
+  "text": "Q.15 4 𝑑𝑥 The exact solution of ∫ is represented as 𝑛. 0 1+𝑥 If 𝑚 represents numerically evaluated value of the above integral using Trapezoidal rule by considering four equal subintervals in the range of 𝑥, then is (𝑚−𝑛) (A) 0.074 (B) 0.074 − (C) − 0.003 (D) 0.003"
+ },
+ {
+  "set": 1,
+  "n": 16,
+  "img": "me2026-s1-q16.webp",
+  "w": 870,
+  "h": 725,
+  "text": "Q.16 A horizontal disk has a radial frictionless slot in which a small block is confined to slide. The disk turns anticlockwise about its centre with a constant angular velocity of 3 rad/s. If the block slides along the slot with a constant speed of 0.2 m/s relative to the slot, then the magnitude of Coriolis acceleration in m/s2 is (A) 1.2 (B) 0.6 (C) 2.4 (D) 0.3"
+ },
+ {
+  "set": 1,
+  "n": 17,
+  "img": "me2026-s1-q17.webp",
+  "w": 870,
+  "h": 1294,
+  "text": "Q.17 A gear train with five gears is shown in the figure below. The number of teeth on each gear is N1, N2, N3, N4, and N5. The idler gear in this gear train is (A) gear 4 (B) gear 2 (C) gear 3 (D) gear 1"
+ },
+ {
+  "set": 1,
+  "n": 18,
+  "img": "me2026-s1-q18.webp",
+  "w": 870,
+  "h": 587,
+  "text": "Q.18 In a single degree of freedom vibrating system with only viscous damping, the critical damping coefficient is 350 and the damping coefficient is 35 s/m. N s/m N The logarithmic decrement of the vibrating system is (A) 0.63 (B) 1.26 (C) 0.32 (D) 1.89"
+ },
+ {
+  "set": 1,
+  "n": 19,
+  "img": "me2026-s1-q19.webp",
+  "w": 870,
+  "h": 748,
+  "text": "Q.19 A closely coiled helical compression spring of mean coil diameter 𝐷 and wire diameter 𝑑, is loaded by an axial force 𝐹. The maximum shear stress developed in the wire is (A) 8𝐹𝐷 4𝐹 + 𝜋𝑑3 𝜋𝑑2 (B) 8𝐹𝐷 2𝐹 + 𝜋𝑑3 𝜋𝑑2 (C) 16𝐹𝐷 4𝐹 + 𝜋𝑑3 𝜋𝑑2 (D) 32𝐹𝐷 4𝐹 + 𝜋𝑑3 𝜋𝑑2"
+ },
+ {
+  "set": 1,
+  "n": 20,
+  "img": "me2026-s1-q20.webp",
+  "w": 870,
+  "h": 1341,
+  "text": "Q.20 The rotor of an aeroplane engine has a mass moment of inertia 1.0 kg m2. The engine rotates at a speed of 500 RPM in the clockwise direction if viewed from the front of the aeroplane. If the aeroplane while flying at 1200 km/hr turns with a radius of 2 km at same elevation, then the magnitude of the gyroscopic moment exerted by the rotor on the aeroplane structure in N m is (A) 8.73 (B) 17.46 (C) 4.37 (D) 26.19"
+ },
+ {
+  "set": 1,
+  "n": 21,
+  "img": "me2026-s1-q21.webp",
+  "w": 870,
+  "h": 1360,
+  "text": "Q.21 A rectangular plate is perfectly welded to a gusset plate with parallel fillet weld joints as shown in the figure below. The length of the weld is and the fillet weld leg size 𝑙 is ℎ. The allowable shear strength of the weldment is 𝜏𝑎𝑙𝑙. A tensile force 𝑃 is applied on the plate in a direction parallel to the length of the weld. Assuming the throat of the weld as the weakest section, the critical load is (A) √2ℎ𝑙𝜏𝑎𝑙𝑙 (B) ℎ𝑙𝜏𝑎𝑙𝑙 (C) ℎ𝑙𝜏𝑎𝑙𝑙/√2 (D) ℎ𝑙𝜏𝑎𝑙𝑙/2"
+ },
+ {
+  "set": 1,
+  "n": 22,
+  "img": "me2026-s1-q22.webp",
+  "w": 870,
+  "h": 511,
+  "text": "Q.22 Worm gearsets are used for transmitting rotary motion between (A) non-parallel and non-intersecting shafts (B) intersecting shafts (C) parallel shafts (D) non-parallel and intersecting shafts"
+ },
+ {
+  "set": 1,
+  "n": 23,
+  "img": "me2026-s1-q23.webp",
+  "w": 870,
+  "h": 826,
+  "text": "Q.23 For an ideal gas, starting from state point 1, two different processes take place. The corresponding final states in these two processes are 2 and 3, lying on same isotherm. If 𝑃 and ℎ represent pressure and enthalpy, respectively, then which one of the following options is correct? (A) ℎ2 = ℎ3 (B) ℎ2 > ℎ3 (C) 𝑃2ℎ3 = 𝑃3ℎ2 (D) 𝑃3ℎ3 = 𝑃2ℎ2"
+ },
+ {
+  "set": 1,
+  "n": 24,
+  "img": "me2026-s1-q24.webp",
+  "w": 870,
+  "h": 593,
+  "text": "Q.24 A steady incompressible laminar flow passes through a 90° tube bend placed on a horizontal surface. In horizontal diametric plane, two pressure taps 𝑃𝑖 and 𝑃𝑜 are provided across the cross-section at inner and outer walls of the bend, respectively. Which one of the following options is correct? (A) 𝑃𝑜> 𝑃𝑖 (B) 𝑃𝑜< 𝑃𝑖 (C) (𝑃𝑜−𝑃𝑖) is directly proportional to the bend radius. (D) (𝑃𝑖−𝑃𝑜) is inversely proportional to the average flow velocity."
+ },
+ {
+  "set": 1,
+  "n": 25,
+  "img": "me2026-s1-q25.webp",
+  "w": 870,
+  "h": 735,
+  "text": "Q.25 An ideal gas passes isothermally through a long horizontal uniform cross-section pipe under steady flow. Consider that the pressure gradient in the pipe is sufficient for a finite change in the density of the gas. If the flow of the gas is purely pressure driven and subsonic throughout, then the average flow velocity (A) increases along the flow (B) decreases along the flow (C) does not change throughout the pipe (D) increases in the hydrodynamic entrance region and then decreases thereafter"
+ },
+ {
+  "set": 1,
+  "n": 26,
+  "img": "me2026-s1-q26.webp",
+  "w": 870,
+  "h": 1332,
+  "text": "Q.26 Bernoulli’s equation CANNOT be applied between (A) any two arbitrary points in the flow field for steady incompressible rotational flow (B) any two arbitrary points in the flow field for steady incompressible irrotational flow (C) any two points along a streamline for steady incompressible flow (D) any two points along a streamline for steady incompressible rotational flow"
+ },
+ {
+  "set": 1,
+  "n": 27,
+  "img": "me2026-s1-q27.webp",
+  "w": 870,
+  "h": 1350,
+  "text": "Q.27 A quiescent fluid at temperature T3 is confined between two vertical parallel plates. While plate 1 is kept at temperature T1 and plate 2 is maintained at temperature T2, a velocity profile between the plates, as shown in the figure below, is generated due to heat transfer. Which one of the following options shows the correct relations among T1, T2, and T3? (A) T1 > T3 and T3 > T2 (B) T1 > T3 and T3 < T2 (C) T1 < T3 and T3 < T2 (D) T1 < T3 and T3 > T2"
+ },
+ {
+  "set": 1,
+  "n": 28,
+  "img": "me2026-s1-q28.webp",
+  "w": 870,
+  "h": 1343,
+  "text": "Q.28 For the isothermal expansion of an ideal gas in a piston cylinder system, the net heat supplied during the process is equal to the net work. Which one of the following statements is correct for the given process? (A) The process is possible. (B) The process is not possible as it violates the second law of thermodynamics. (C) The process is not possible as it violates the first law of thermodynamics. (D) The process is possible, however, it violates the second law of thermodynamics."
+ },
+ {
+  "set": 1,
+  "n": 29,
+  "img": "me2026-s1-q29.webp",
+  "w": 870,
+  "h": 1362,
+  "text": "Q.29 A hydraulic crane supports a mass of 500 kg with its piston-cylinder actuator, inclined at 60° with horizontal, as shown in the figure below. The diameter of the piston is 30 cm and gravitational acceleration is 10 m/s2. Neglecting mass of the piston, the reading of the pressure gage in kPa (gage) is (A) 61.26 (B) 6.13 (C) 35.35 (D) 70.71"
+ },
+ {
+  "set": 1,
+  "n": 30,
+  "img": "me2026-s1-q30.webp",
+  "w": 870,
+  "h": 1300,
+  "text": "Q.30 In relation to metal casting defects, match the following Defect Description P Dross I Shallow blow found on a flat casting surface Q Scab II Lighter impurities appearing on the top surface of a casting R Scar III A rough, thin layer of metal, protruding above the casting surface, on top of a thin layer of sand (A) P−II, Q−III, R−I (B) P−II, Q−I, R−III (C) P−III, Q−I, R−II (D) P−III, Q−II, R−I"
+ },
+ {
+  "set": 1,
+  "n": 31,
+  "img": "me2026-s1-q31.webp",
+  "w": 870,
+  "h": 1309,
+  "text": "Q.31 Which one of the following options is NOT an error associated with STereoLithography (STL) file in additive manufacturing? (A) Staircase effect (B) Missing facet (C) Non-manifold topology conditions (D) Degenerate facets"
+ },
+ {
+  "set": 1,
+  "n": 32,
+  "img": "me2026-s1-q32.webp",
+  "w": 870,
+  "h": 1331,
+  "text": "Q.32 A work piece is to be firmly held in a fixture. It is to be machined by using a plain slab milling cutter as shown in the figure below. Which one of the following options is the most suitable value of height H of the fixture in mm? (A) 200 (B) 210 (C) 150 (D) 70"
+ },
+ {
+  "set": 1,
+  "n": 33,
+  "img": "me2026-s1-q33.webp",
+  "w": 870,
+  "h": 1293,
+  "text": "Q.33 A two-dimensional surface profile is obtained over a sampling length by using a contact type stylus profilometer as shown in the figure below. A line AA parallel to the general lay of the trace is considered. The true heights from AA to the peaks and valleys (in in the trace are also shown in the figure (not to scale). μm) The ten-point height average in is μm (A) 4.57 (B) 5.99 (C) 3.09 (D) 2.90"
+ },
+ {
+  "set": 1,
+  "n": 34,
+  "img": "me2026-s1-q34.webp",
+  "w": 870,
+  "h": 168,
+  "text": "Q.34 A steel plate having yield strength of 550 MPa, is subjected to biaxial state of stress as 𝜎𝑥= 𝜎 and 𝜎𝑦= −2𝜎. Using distortion energy theory and considering the factor of safety as 2, the permissible value of 𝜎 that can be applied to the plate is ________ MPa (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 35,
+  "img": "me2026-s1-q35.webp",
+  "w": 870,
+  "h": 309,
+  "text": "Q.35 A sphere of radius 5 mm is initially in equilibrium at 400 ℃ in a furnace. It is suddenly removed from the furnace and dipped in a well-stirred water bath at 20 ℃, with a convection heat transfer coefficient of 500 W/(m2K). For the given range of temperatures, the thermophysical properties of the material of the sphere are: density kg/m3, 𝜌= 3000 thermal conductivity 𝑘= 10 W/(m K), and specific heat K). Neglecting radiation heat transfer, the time required for the 𝑐= 1000 J/(kg centre of the sphere to cool from 400 ℃ to 50 ℃ is ________ seconds (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 36,
+  "img": "me2026-s1-q36.webp",
+  "w": 870,
+  "h": 560,
+  "text": "Q.36 If 𝑤= log𝑒𝑧= log𝑒(𝑥+ 𝑖𝑦), where 𝑖= √−1, then which one of the following statements is correct? (A) is analytic everywhere except at 𝑤 𝑧= 0 (B) 𝑤 is non-analytic everywhere (C) log𝑒(𝑥2 𝑦2) log𝑒(𝑥2 −𝑦2) The conjugate functions of 𝑤 are + and 𝑡𝑎𝑛−1(𝑦𝑥 (D) The conjugate functions of are 𝑡𝑎𝑛−1(𝑥𝑦 and ⁄ 𝑤 ⁄ ) )"
+ },
+ {
+  "set": 1,
+  "n": 37,
+  "img": "me2026-s1-q37.webp",
+  "w": 870,
+  "h": 724,
+  "text": "Q.37 Consider the following differential equation 𝜕𝑦 𝜕𝑦 𝜕𝑥= 3 𝜕𝑡+ 𝑦 If 10𝑒−2𝑥, then the solution of the differential equation is 𝑦(𝑥, 0) = (A) 𝑦(𝑥, 𝑡) = 10𝑒−2𝑥−𝑡 (B) 10𝑒−2𝑥+𝑡 𝑦(𝑥, 𝑡) = (C) 𝑦(𝑥, 𝑡) = 10𝑒−2𝑥−2𝑡 (D) 𝑦(𝑥, 𝑡) = 10𝑒−2𝑥+2𝑡"
+ },
+ {
+  "set": 1,
+  "n": 38,
+  "img": "me2026-s1-q38.webp",
+  "w": 870,
+  "h": 1318,
+  "text": "Q.38 Let 𝑓(𝑡) be a function of 𝑡 defined for all positive values of 𝑡. The Laplace transform ∞ of 𝑓(𝑡) denoted by 𝐿{𝑓(𝑡)} = ∫ 𝑒−𝑠𝑡𝑓(𝑡)𝑑𝑡 , provided that the integral exists 0 where 𝑠 is a parameter which may be a real or complex number. The Laplace transform of 𝑓(𝑡) = sin 2𝑡sin 4𝑡 is (A) 16𝑠 (𝑠2+4)(𝑠2+36) (B) 32𝑠 (𝑠2+4)(𝑠2+36) (C) 16 (𝑠2+4)(𝑠2+36) (D) 32 (𝑠2+4)(𝑠2+36)"
+ },
+ {
+  "set": 1,
+  "n": 39,
+  "img": "me2026-s1-q39.webp",
+  "w": 870,
+  "h": 1328,
+  "text": "Q.39 A student council of 10 members consists of two students from engineering school, three students from science school and five students from arts school. The university administration selects three students from the council at random. What is the chance that out of the selected students, two belong to the same school and the third belongs to different school? (A) 79 ⁄ 120 (B) 2 ⁄ 120 (C) 89 ⁄ 120 (D) 69 ⁄ 120"
+ },
+ {
+  "set": 1,
+  "n": 40,
+  "img": "me2026-s1-q40.webp",
+  "w": 870,
+  "h": 1345,
+  "text": "Q.40 A cantilever beam of length 𝐿 is subjected to a concentrated load 𝑃 and a moment 𝑀 as shown in the figure below. Neglecting the mass of the beam, which one of the following options is the correct representation of shear force diagram (SFD) and bending moment diagram (BMD)? (A) (B) (C) (D)"
+ },
+ {
+  "set": 1,
+  "n": 41,
+  "img": "me2026-s1-q41.webp",
+  "w": 870,
+  "h": 1310,
+  "text": "Q.41 Two structural members are connected by a hinge and they are externally loaded as shown in the figure below. A and B are roller supports, and C is a pin support. Neglecting the mass of the members, the magnitude of the vertical reaction force at C in is kN (A) 5 (B) 10 (C) 20 (D) 15"
+ },
+ {
+  "set": 1,
+  "n": 42,
+  "img": "me2026-s1-q42.webp",
+  "w": 870,
+  "h": 1359,
+  "text": "Q.42 A 5 kg mass is suspended at the free end of an overhanging massless beam, having a pin support and a roller support, as shown in the figure below. Young’s modulus of the material of the beam is 200 GPa and area moment of inertia of the beam is 10−8 m4. The natural frequency of the beam in is rad/s (A) 10 (B) 10 ⁄ 3 (C) 5 (D) 20 ⁄ 3"
+ },
+ {
+  "set": 1,
+  "n": 43,
+  "img": "me2026-s1-q43.webp",
+  "w": 870,
+  "h": 1322,
+  "text": "Q.43 A very long fin of a uniform square cross-section is replaced by another very long fin of a uniform circular cross-section of the same material. Assume uniform and identical heat transfer coefficient for both the fins. If the diameter of the circular fin is equal to the side length of the square fin, then the ratio of heat transfer rates before and after the replacement is (A) 4 ⁄ 𝜋 (B) 16 ⁄ 𝜋2 (C) 1 ⁄ 𝜋 (D) 1 ⁄ 𝜋2 For an ideal regenerative Rankine cycle, as shown in the figure below, which one of"
+ },
+ {
+  "set": 1,
+  "n": 44,
+  "img": "me2026-s1-q44.webp",
+  "w": 870,
+  "h": 1361,
+  "text": "Q.44 the following options is the correct representation of temperature-entropy (T-s) diagram? (A) (B) (C) (D)"
+ },
+ {
+  "set": 1,
+  "n": 45,
+  "img": "me2026-s1-q45.webp",
+  "w": 870,
+  "h": 1304,
+  "text": "Q.45 Consider the Euler variables of polyhedral objects namely, P1, P2, P3, and P4 as given in the table below. Polyhedral Faces Edges Vertices Faces’ inner loops Bodies Genus objects (F) (E) (V) (L) (B) (G) P1 6 12 8 0 1 0 P2 5 8 5 0 1 0 P3 5 12 8 0 1 0 P4 10 24 16 0 1 0 Which one of the following options is NOT a topologically valid closed polyhedral object as per Euler’s law? (A) P3 (B) P1 (C) P4 (D) P2"
+ },
+ {
+  "set": 1,
+  "n": 46,
+  "img": "me2026-s1-q46.webp",
+  "w": 870,
+  "h": 1293,
+  "text": "Q.46 An objective function 𝑍 of primal variables (𝑥1 and 𝑥2) is described below: Minimize 𝑍= 0.07 𝑥1 + 0.05 𝑥2 subject to 0.1 𝑥1 ≥0.4 0.1 𝑥2 ≥0.6 0.1 𝑥1 + 0.2 𝑥2 ≥2.0 0.2 𝑥1 + 0.1 𝑥2 ≥1.8 𝑥1, 𝑥2 ≥0 𝑊 is the objective function of the dual of 𝑍. 𝑘1, 𝑘2, 𝑘3, and 𝑘4 represent the corresponding dual variables. Which one of the following options represents the correct form of 𝑊? Maximize 𝑊= 0.4 𝑘1 + 0.6 𝑘2 + 2.0 𝑘3 + 1.8 𝑘4 (A) subject to 0.1 𝑘1 + 0.1 𝑘3 + 0.2 𝑘4 ≤0.07 0.1 𝑘2 + 0.2 𝑘3 + 0.1 𝑘4 ≤0.05 𝑘1, 𝑘2, 𝑘3, 𝑘4 ≥0 Maximize 𝑊= 0.4 𝑘1 + 0.6 𝑘2 + 2.0 𝑘3 + 1.8 𝑘4 (B) subject to 0.1 𝑘1 + 0.1 𝑘2 + 0.2 𝑘4 ≤0.07 0.1 𝑘2 + 0.2 𝑘3 + 0.1 𝑘4 ≤0.05 𝑘1, 𝑘2, 𝑘3, 𝑘4 ≥0 Maximize 𝑊= 0.4 𝑘1 + 0.6 𝑘2 + 2.0 𝑘3 + 1.8 𝑘4 (C) subject to 0.1 𝑘1 + 0.1 𝑘2 + 0.2 𝑘4 ≤0.05 0.1 𝑘1 + 0.2 𝑘3 + 0.1 𝑘4 ≤0.07 𝑘1, 𝑘2, 𝑘3, 𝑘4 ≥0 Maximize 𝑊= 0.4 𝑘1 + 0.6 𝑘2 + 2.0 𝑘3 + 1.8 𝑘4 (D) subject to 0.1 𝑘1 + 0.1 𝑘3 + 0.2 𝑘4 ≤0.05 0.1 𝑘2 + 0.2 𝑘3 + 0.1 𝑘4 ≤0.07 𝑘1, 𝑘2, 𝑘3, 𝑘4 ≥0"
+ },
+ {
+  "set": 1,
+  "n": 47,
+  "img": "me2026-s1-q47.webp",
+  "w": 870,
+  "h": 1319,
+  "text": "Q.47 Four jobs are on order in a factory. As on day 20 of the production calendar, the corresponding due date and work remaining to complete these jobs (in days) are given in the table below. Work remaining Job Due date (in days) M 26 5 N 24 10 O 28 10 P 31 5 Which job(s) has/have critical ratio less than unity? (A) Job N and Job O (B) Job M and Job N (C) Job P (D) Job O and Job P"
+ },
+ {
+  "set": 1,
+  "n": 48,
+  "img": "me2026-s1-q48.webp",
+  "w": 870,
+  "h": 527,
+  "text": "Q.48 A block of 50 kg mass is on an inclined plane. The block is connected to another hanging mass M by an inextensible massless string through two massless pulleys as shown in the figure below. The coefficient of static friction between the block and the inclined plane is 0.3. Neglecting pulley friction, the minimum value of M required to start the upward motion of the block is ________ kg (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 49,
+  "img": "me2026-s1-q49.webp",
+  "w": 870,
+  "h": 788,
+  "text": "Q.49 A simply supported beam is subjected to an external point load P as shown in the figure below. The beam has a rectangular cross-section of 20 mm × 45 mm. A is a pin support and B is a roller support. The shear stress developed at point C, lying on the neutral axis of the beam, is 3 MPa. Neglecting the mass of the beam, the magnitude of the applied load is _______ kN (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 50,
+  "img": "me2026-s1-q50.webp",
+  "w": 870,
+  "h": 476,
+  "text": "Q.50 A rigid slender bar, AB, is sliding against two mutually perpendicular frictionless walls, as shown in the figure below. The velocity of A in the downward direction at a given instant is 6 m/s. At that instant, the magnitude of absolute velocity of the midpoint G is ________ (rounded off to 2 decimal places). m/s"
+ },
+ {
+  "set": 1,
+  "n": 51,
+  "img": "me2026-s1-q51.webp",
+  "w": 870,
+  "h": 195,
+  "text": "Q.51 A cylindrical pressure vessel made of steel has diameter of 3 and wall thickness m of 15 mm. For steel, Young’s modulus and Poisson’s ratio are 210 and 0.3, GPa respectively. The cylinder is designed such that the allowable normal strain at the outer cylindrical surface is equal to 0.00034. The permissible pressure in the tank is ________ kPa (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 52,
+  "img": "me2026-s1-q52.webp",
+  "w": 870,
+  "h": 640,
+  "text": "Q.52 A welded square plate of 1 m × 1 m is subjected to biaxial stress of magnitude 6.5 and 25 MPa, as shown in the figure below. The ratio of the normal stress MPa acting in the perpendicular direction of the weld to the shear stress of the weld is ________ (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 53,
+  "img": "me2026-s1-q53.webp",
+  "w": 870,
+  "h": 342,
+  "text": "Q.53 Water with a density of 1000 kg/m3 comes out of an industrial condenser through m3/min. a horizontal pipe of 15 cm radius at the flow rate of 4.5 The outlet of the pipe is connected to a coaxial diffuser of 0.5 m length using a flange to raise the pressure of water to atmospheric condition without any backflow. The inner radius (𝑟, in m) of the diffuser cross-section is expressed as 𝑟= 0.15 + 0.4 𝑥2 where, 𝑥 represents the axial distance of the diffuser in m, from its inlet. Considering frictionless flow, the magnitude of the force exerted by the diffuser on the flange is ________ N (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 54,
+  "img": "me2026-s1-q54.webp",
+  "w": 870,
+  "h": 225,
+  "text": "Q.54 Two rectangular surfaces both having 1 m2 area are placed perpendicular to each other with a common edge. One surface is hot, having a temperature of 1000 K and emissivity of 0.4, while the other is insulated and in radiant balance with a large surrounding room at 300 K. If the fraction of radiation leaving the hot surface which reaches the cold surface is 0.2, then the equivalent overall resistance for the radiation heat loss from the hot surface is _______ m−2 (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 55,
+  "img": "me2026-s1-q55.webp",
+  "w": 870,
+  "h": 774,
+  "text": "Q.55 Convective heat transfer coefficients for Fluid 1 and Fluid 2 in a heat exchanger, as shown in the figure below, are 50 W/(m2K) and 80 W/(m2K), respectively. The inner tube is made of a material which has a thermal conductivity 386 W/(m K) for the given range of temperatures in the heat exchanger. The length of the heat exchanging surface, the inside radius of the inner tube, and thickness of the inner tube are 1 m, 10 mm, and 1 mm, respectively. Considering no heat exchange between the outer tube and the surrounding, the heat transfer rate for the heat exchanger is ________ W (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 56,
+  "img": "me2026-s1-q56.webp",
+  "w": 870,
+  "h": 182,
+  "text": "Q.56 A liquid comes out of the reactor of a chemical plant at 250 ℃ temperature with a flow rate of 100 LPM. The ambient temperature is 25 ℃. Density and specific heat of the liquid remain constant at 1000 kg/m3 and 4.18 kJ/kg K, respectively, for the given range of temperature. The rate of exergy associated with the hot liquid stream at the exit of the plant is ________ kW (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 57,
+  "img": "me2026-s1-q57.webp",
+  "w": 870,
+  "h": 507,
+  "text": "Q.57 A rigid closed vertical cylindrical vessel of 15 cm diameter contains 5 kg water at 80 ℃ with 10% quality. The water is heated till its temperature reaches 130 ℃. Considering only a horizontal separated interface between liquid and vapor, the dip in the liquid level after the heating process is ________ (rounded off to 2 decimal cm places). Properties of water at various saturation temperatures are given in the table below. Temperature Specific volume Specific internal energy (m3/kg) (m3/kg) 𝑇 (℃) 𝑣𝑓 𝑣𝑔 𝑢𝑓 (kJ/kg) 𝑢𝑔 (kJ/kg) 80 0.001029 3.4053 334.97 2481.60 130 0.001070 0.66808 546.10 2539.50 𝑇, 𝑣, and are temperature, specific volume, and specific internal energy, 𝑢 respectively. Subscripts 𝑓 and 𝑔 represent saturated liquid and saturated vapor, respectively."
+ },
+ {
+  "set": 1,
+  "n": 58,
+  "img": "me2026-s1-q58.webp",
+  "w": 870,
+  "h": 165,
+  "text": "Q.58 An inward flow reaction turbine, having an outer diameter of 1 m, runs at 600 RPM. The normal component of absolute velocity at the inlet is 10 m/s. If the guide blade angle is 15°, then the inlet vane angle of the runner is ________ degree (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 59,
+  "img": "me2026-s1-q59.webp",
+  "w": 870,
+  "h": 127,
+  "text": "Q.59 In a deep drawing operation of a rectangular sheet metal, 30% stretching in length results in 15% reduction in thickness. Assuming volume constancy, the normal anisotropy of the sheet metal is ________ (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 60,
+  "img": "me2026-s1-q60.webp",
+  "w": 870,
+  "h": 329,
+  "text": "Q.60 The actual demand for castings in a factory is 500 units and 635 units for the months of January 2026 and February 2026, respectively. The forecasted demand for January 2026 is 250 units and smoothing constant is 0.7. Using the exponential smoothing method, the forecast of the demand for castings in March 2026 is________ units (in integer)."
+ },
+ {
+  "set": 1,
+  "n": 61,
+  "img": "me2026-s1-q61.webp",
+  "w": 870,
+  "h": 192,
+  "text": "Q.61 The inventory holding cost of an item is ₹ 0.50 per unit per month and the ordering cost per order is ₹ 550. A stockist needs to supply 10000 units of the item per year to the customers. Assume demand is fixed and shortage cost is infinite. Using classical economic order quantity (EOQ) model, the optimal lot size is ________ units per order (rounded off to nearest integer)."
+ },
+ {
+  "set": 1,
+  "n": 62,
+  "img": "me2026-s1-q62.webp",
+  "w": 870,
+  "h": 137,
+  "text": "Q.62 A metal has FCC crystal structure with 2.71 g/cm3 of density and 26.98 g/mol of atomic weight. The Avogadro’s number is 6.023 × 1023. The atomic radius of the metal is ________ nm (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 63,
+  "img": "me2026-s1-q63.webp",
+  "w": 870,
+  "h": 181,
+  "text": "Q.63 During orthogonal turning by using a single point cutting tool, feed rate is 0.24 mm/rev. The uncut chip thickness is 0.23 mm. The shear angle, tangential force component, and radial force component are 20°, 800 N, and 150 N, respectively. The value of shear force is ________ (rounded off to N 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 64,
+  "img": "me2026-s1-q64.webp",
+  "w": 870,
+  "h": 193,
+  "text": "Q.64 A drill bit during its lifetime can produce 150 through holes in a plate at a drill-speed of 200 RPM. If the drill-speed increases to 300 RPM, then it can produce 60 through holes in the same plate before the drill bit fails. Assume all other parameters remain constant. The value of the exponent in Taylor’s tool life equation is ________ (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 65,
+  "img": "me2026-s1-q65.webp",
+  "w": 870,
+  "h": 499,
+  "text": "Q.65 The activities of a PERT network and their corresponding activity time estimates (in weeks) i.e., optimistic (𝑡𝑜), most likely (𝑡𝑚), and pessimistic (𝑡𝑝) are given in the table below. Activity Time (in weeks) 𝑡𝑜 𝑡𝑚 𝑡𝑝 1−2 2 4 12 1−3 2 4 6 1−4 3 4 11 3 6 9 2−5 3−4 2 5 14 3−5 3 3 3 4−5 3 6 15 5−6 2 5 8 The expected project length is ________ weeks (in integer)."
+ }
+]

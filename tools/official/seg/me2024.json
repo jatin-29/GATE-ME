@@ -1,0 +1,522 @@
+[
+ {
+  "set": 1,
+  "n": 1,
+  "img": "me2024-s1-q1.webp",
+  "w": 809,
+  "h": 490,
+  "text": "Q.1 If ‘→’ denotes increasing order of intensity, then the meaning of the words [smile → giggle → laugh] is analogous to [disapprove → ________ → chide]. Which one of the given options is appropriate to fill the blank? (A) reprove (B) praise (C) reprise (D) grieve"
+ },
+ {
+  "set": 1,
+  "n": 2,
+  "img": "me2024-s1-q2.webp",
+  "w": 662,
+  "h": 428,
+  "text": "Q.2 Find the odd one out in the set: {19, 37, 21, 17, 23, 29, 31, 11} (A) 21 (B) 29 (C) 37 (D) 23"
+ },
+ {
+  "set": 1,
+  "n": 3,
+  "img": "me2024-s1-q3.webp",
+  "w": 846,
+  "h": 465,
+  "text": "Q.3 In the following series, identify the number that needs to be changed to form the Fibonacci series. 1, 1, 2, 3, 6, 8, 13, 21,… (A) 8 (B) 21 (C) 6 (D) 13"
+ },
+ {
+  "set": 1,
+  "n": 4,
+  "img": "me2024-s1-q4.webp",
+  "w": 743,
+  "h": 558,
+  "text": "Q.4 The real variables 𝑥, 𝑦, 𝑧, and the real constants 𝑝, 𝑞, satisfy 𝑟 𝑥 𝑦 𝑧 = = 𝑝𝑞−𝑟2 𝑞𝑟−𝑝2 𝑟𝑝−𝑞2 Given that the denominators are non-zero, the value of 𝑝𝑥+ 𝑞𝑦+ 𝑟𝑧 is (A) 0 (B) 1 (C) 𝑝𝑞𝑟 (D) 𝑝2 𝑞2 𝑟2 + +"
+ },
+ {
+  "set": 1,
+  "n": 5,
+  "img": "me2024-s1-q5.webp",
+  "w": 846,
+  "h": 581,
+  "text": "Q.5 Take two long dice (rectangular parallelepiped), each having four rectangular faces labelled as 2, 3, 5, and 7. If thrown, the long dice cannot land on the square faces and has 1/4 probability of landing on any of the four rectangular faces. The label on the top face of the dice is the score of the throw. If thrown together, what is the probability of getting the sum of the two long dice scores greater than 11? (A) 3/8 (B) 1/8 (C) 1/16 (D) 3/16"
+ },
+ {
+  "set": 1,
+  "n": 6,
+  "img": "me2024-s1-q6.webp",
+  "w": 847,
+  "h": 674,
+  "text": "Q.6 In the given text, the blanks are numbered (i)−(iv). Select the best match for all the blanks. (i) (ii) Prof. P merely a man who narrated funny stories. in his blackest moments he was capable of self-deprecating humor. (iii) (iv) Prof. Q a man who hardly narrated funny stories. in his blackest moments was he able to find humor. (A) (i) was (ii) Only (iii) wasn’t (iv) Even (B) (i) wasn’t (ii) Even (iii) was (iv) Only (C) (i) was (ii) Even (iii) wasn’t (iv) Only (D) (i) wasn’t (ii) Only (iii) was (iv) Even"
+ },
+ {
+  "set": 1,
+  "n": 7,
+  "img": "me2024-s1-q7.webp",
+  "w": 848,
+  "h": 454,
+  "text": "Q.7 How many combinations of non-null sets A, B, C are possible from the subsets of {2, 3, 5} satisfying the conditions: (i) A is a subset of B, and (ii) B is a subset of C? (A) 28 (B) 27 (C) 18 (D) 19"
+ },
+ {
+  "set": 1,
+  "n": 8,
+  "img": "me2024-s1-q8.webp",
+  "w": 848,
+  "h": 944,
+  "text": "Q.8 The bar chart gives the batting averages of VK and RS for 11 calendar years from 2012 to 2022. Considering that 2015 and 2019 are world cup years, which one of the following options is true? 140 120 Average VK RS 100 80 Batting 60 40 20 0 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 Calendar Year (A) RS has a higher yearly batting average than that of VK in every world cup year. (B) VK has a higher yearly batting average than that of RS in every world cup year. (C) VK’s yearly batting average is consistently higher than that of RS between the two world cup years. (D) RS’s yearly batting average is consistently higher than that of VK in the last three years."
+ },
+ {
+  "set": 1,
+  "n": 9,
+  "img": "me2024-s1-q9.webp",
+  "w": 845,
+  "h": 1087,
+  "text": "Q.9 A planar rectangular paper has two V-shaped pieces attached as shown below. This piece of paper is folded to make the following closed three-dimensional object. The number of folds required to form the above object is (A) 9 (B) 7 (C) 11 (D) 8"
+ },
+ {
+  "set": 1,
+  "n": 10,
+  "img": "me2024-s1-q10.webp",
+  "w": 847,
+  "h": 453,
+  "text": "Q.10 Four equilateral triangles are used to form a regular closed three-dimensional object by joining along the edges. The angle between any two faces is (A) 30° (B) 60° (C) 45° (D) 90°"
+ },
+ {
+  "set": 1,
+  "n": 11,
+  "img": "me2024-s1-q11.webp",
+  "w": 848,
+  "h": 638,
+  "text": "Q.11 𝑑𝑦 In order to numerically solve the ordinary differential equation 𝑑𝑡= −𝑦 for 𝑡> 0, with an initial condition 𝑦(0) = 1, the following scheme is employed 𝑦𝑛+1 −𝑦𝑛 −1 = (𝑦𝑛+1 + 𝑦𝑛). Δ𝑡 2 Here, is the time step and for This numerical scheme Δ𝑡 𝑦𝑛= 𝑦(𝑛Δ𝑡) 𝑛= 0, 1, 2, …. will yield a solution with non-physical oscillations for Δ𝑡> ℎ. The value of ℎ is (A) 1 2 (B) 1 (C) 3 2 (D) 2"
+ },
+ {
+  "set": 1,
+  "n": 12,
+  "img": "me2024-s1-q12.webp",
+  "w": 700,
+  "h": 552,
+  "text": "Q.12 The value of the surface integral ∯𝑧𝑑𝑥𝑑𝑦 𝑆 𝑥2 𝑦2 𝑧2 𝑅2 where 𝑆 is the external surface of the sphere + + = is (A) 0 (B) 4𝜋𝑅3 (C) 4𝜋 𝑅3 3 (D) 𝜋𝑅3"
+ },
+ {
+  "set": 1,
+  "n": 13,
+  "img": "me2024-s1-q13.webp",
+  "w": 847,
+  "h": 419,
+  "text": "Q.13 Let 𝑓(𝑧) be an analytic function, where 𝑧= 𝑥+ 𝑖𝑦. If the real part of 𝑓(𝑧) is cosh 𝑥cos 𝑦, and the imaginary part of 𝑓(𝑧) is zero for 𝑦= 0, then 𝑓(𝑧) is (A) cosh 𝑥exp (−𝑖𝑦) (B) cosh 𝑧exp 𝑧 (C) cosh 𝑧cos 𝑦 (D) cosh 𝑧"
+ },
+ {
+  "set": 1,
+  "n": 14,
+  "img": "me2024-s1-q14.webp",
+  "w": 847,
+  "h": 653,
+  "text": "Q.14 Consider the system of linear equations 𝑥+ 2𝑦+ 𝑧= 5 2𝑥+ 𝑎𝑦+ 4𝑧= 12 2𝑥+ 4𝑦+ 6𝑧= 𝑏 The values of 𝑎 and 𝑏 such that there exists a non-trivial null space and the system admits infinite solutions are (A) 𝑎= 8, 𝑏= 14 (B) 𝑎= 4, 𝑏= 12 (C) 𝑎= 8, 𝑏= 12 (D) 𝑎= 4, 𝑏= 14"
+ },
+ {
+  "set": 1,
+  "n": 15,
+  "img": "me2024-s1-q15.webp",
+  "w": 847,
+  "h": 518,
+  "text": "Q.15 Let 𝑓(. ) be a twice differentiable function from ℝ2 →ℝ. If 𝒑, 𝒙𝟎∈ℝ2 where ‖𝒑‖ is sufficiently small (here ‖. ‖ is the Euclidean norm or distance function), then ∇𝑓(𝐱𝟎)T𝒑+ 1 𝒑𝑇∇2𝑓(𝝍)𝒑 where 𝝍∈ℝ2 is a point on the 𝑓(𝒙𝟎+ 𝒑) = 𝑓(𝒙𝟎) + 2 line segment joining 𝒙𝟎 and 𝒙𝟎+ 𝒑. If 𝒙𝟎 is a strict local minimum of 𝑓(𝒙), then which one of the following statements is TRUE? (A) ∇𝑓(𝐱𝟎)T𝒑> 𝒑𝑇∇2𝑓(𝝍)𝒑= 0 and 0 (B) ∇𝑓(𝐱𝟎)T𝒑= 0 and 𝒑𝑇∇2𝑓(𝝍)𝒑> 0 (C) ∇𝑓(𝐱𝟎)T𝒑= 𝒑𝑇∇2𝑓(𝝍)𝒑= 0 and 0 (D) ∇𝑓(𝐱𝟎)T𝒑= 0 and 𝒑𝑇∇2𝑓(𝝍)𝒑< 0"
+ },
+ {
+  "set": 1,
+  "n": 16,
+  "img": "me2024-s1-q16.webp",
+  "w": 848,
+  "h": 556,
+  "text": "Q.16 The velocity field of a two-dimensional, incompressible flow is given by 𝑉⃗ = 2 sinh 𝑥 𝑖̂ + 𝑣(𝑥, 𝑦) 𝑗̂ where 𝑖̂ and 𝑗̂ denote the unit vectors in 𝑥 and 𝑦 directions, respectively. If 𝑣(𝑥, 0) = cosh 𝑥, then 𝑣(0, −1) is (A) 1 (B) 2 (C) 3 (D) 4"
+ },
+ {
+  "set": 1,
+  "n": 17,
+  "img": "me2024-s1-q17.webp",
+  "w": 848,
+  "h": 1295,
+  "text": "Q.17 A plane, solid slab of thickness 𝐿, shown in the figure, has thermal conductivity 𝑘 that varies with the spatial coordinate 𝑥 as 𝑘= 𝐴+ 𝐵𝑥, where 𝐴 and 𝐵 are positive constants (𝐴> 0). The slab walls are maintained at fixed temperatures of 0, 𝐵> 𝑇(𝑥= 0) = 0 and 𝑇(𝑥= 𝐿) = 𝑇0 > 0. The slab has no internal heat sources. Considering one-dimensional heat transfer, which one of the following plots qualitatively depicts the steady-state temperature distribution within the slab? (A) (B) (C) (D)"
+ },
+ {
+  "set": 1,
+  "n": 18,
+  "img": "me2024-s1-q18.webp",
+  "w": 848,
+  "h": 474,
+  "text": "Q.18 Consider incompressible laminar flow over a flat plate with freestream velocity of 𝑢∞. The Nusselt number corresponding to this flow velocity is 𝑁𝑢1. If the freestream velocity is doubled, the Nusselt number changes to 𝑁𝑢2. Choose the correct option for 𝑁𝑢2/𝑁𝑢1. (A) √2 (B) 2 (C) 1.26 (D) 1"
+ },
+ {
+  "set": 1,
+  "n": 19,
+  "img": "me2024-s1-q19.webp",
+  "w": 847,
+  "h": 594,
+  "text": "Q.19 Consider a hydrodynamically fully developed laminar flow through a circular pipe with the flow along the axis (i.e., direction). In the following statements, is the 𝑧 𝑇 temperature of the fluid, 𝑇𝑤 is the wall temperature and 𝑇𝑚 is the bulk mean temperature of the fluid. Which one of the following statements is TRUE? (A) 𝜕𝑇 For a thermally fully developed flow, 𝜕𝑧= 0, always. (B) 𝑑𝑇𝑚 For constant wall temperature of the duct, constant. 𝑑𝑧= (C) Nusselt number varies linearly along the 𝑧 direction for a thermally fully developed flow. (D) For constant wall temperature (𝑇𝑤> 𝑇𝑚) of the duct, 𝑑𝑇𝑚 increases exponentially 𝑑𝑧 with distance along 𝑧 direction."
+ },
+ {
+  "set": 1,
+  "n": 20,
+  "img": "me2024-s1-q20.webp",
+  "w": 847,
+  "h": 442,
+  "text": "Q.20 A furnace can supply heat steadily at 1200 K at a rate of 24000 kJ/min. The maximum amount of power (in kW) that can be produced by using the heat supplied by this furnace in an environment at 300 K is (A) 300 (B) 150 (C) 18000 (D) 0"
+ },
+ {
+  "set": 1,
+  "n": 21,
+  "img": "me2024-s1-q21.webp",
+  "w": 897,
+  "h": 456,
+  "text": "Q.21 Which one of the following statements regarding a Rankine cycle is FALSE? (A) Superheating the steam in the boiler increases the cycle efficiency. (B) The pressure at the turbine outlet depends on the condenser temperature. (C) Cycle efficiency increases as condenser pressure decreases. (D) Cycle efficiency increases as boiler pressure decreases. 𝑛 For a ball bearing, the fatigue life in millions of revolutions is given by 𝐶 , 𝐿= ( 𝑃)"
+ },
+ {
+  "set": 1,
+  "n": 22,
+  "img": "me2024-s1-q22.webp",
+  "w": 847,
+  "h": 448,
+  "text": "𝐿= ( 𝑃) Q.22 where 𝑃 is the constant applied load and 𝐶 is the basic dynamic load rating. Which one of the following statements is TRUE? (A) 3, assuming that the inner racing is fixed and outer racing is revolving 𝑛 = (B) 𝑛 = 1/3, assuming that the inner racing is fixed and outer racing is revolving (C) 3, assuming that the outer racing is fixed and inner racing is revolving 𝑛= (D) 𝑛 = 1/3, assuming that the outer racing is fixed and inner racing is revolving"
+ },
+ {
+  "set": 1,
+  "n": 23,
+  "img": "me2024-s1-q23.webp",
+  "w": 848,
+  "h": 533,
+  "text": "Q.23 The change in kinetic energy ∆𝐸 of an engine is 300 J, and minimum and maximum shaft speeds are rad/s and rad/s, respectively. Assume 𝜔𝑚𝑖𝑛= 220 𝜔𝑚𝑎𝑥= 280 that the torque-time function is purely harmonic. To achieve a coefficient of fluctuation of 0.05, the moment of inertia (in kg.m2) of the flywheel to be mounted on the engine shaft is (A) 0.113 (B) 0.096 (C) 0.071 (D) 0.053"
+ },
+ {
+  "set": 1,
+  "n": 24,
+  "img": "me2024-s1-q24.webp",
+  "w": 847,
+  "h": 791,
+  "text": "Q.24 A ram in the form of a rectangular body of size m and m is suspended 𝑙= 9 𝑏= 2 by two parallel ropes of lengths 7 m. Assume the center-of-mass of the body is at its geometric center and 𝑔= 9.81 m/s2. For striking the object P with a horizontal velocity of 5 m/s, what is the angle 𝜃 with the vertical from which the ram should be released from rest? (A) 67.1∘ (B) 40.2∘ (C) 35.1∘ (D) 79.5∘"
+ },
+ {
+  "set": 1,
+  "n": 25,
+  "img": "me2024-s1-q25.webp",
+  "w": 847,
+  "h": 469,
+  "text": "Q.25 A linear spring-mass-dashpot system with a mass of 2 kg is set in motion with viscous damping. If the natural frequency is 15 Hz, and the amplitudes of two successive cycles measured are 7.75 mm and 7.20 mm, the coefficient of viscous damping (in N.s/m) is (A) 4.41 (B) 7.51 (C) 2.52 (D) 6.11"
+ },
+ {
+  "set": 1,
+  "n": 26,
+  "img": "me2024-s1-q26.webp",
+  "w": 847,
+  "h": 453,
+  "text": "Q.26 Which one of the following failure theories is the most conservative design approach against fatigue failure? (A) Soderberg line (B) Modified Goodman line (C) Gerber line (D) Yield line"
+ },
+ {
+  "set": 1,
+  "n": 27,
+  "img": "me2024-s1-q27.webp",
+  "w": 843,
+  "h": 758,
+  "text": "Q.27 A rigid massless tetrahedron is placed such that vertex O is at the origin and the other three vertices A, B, and C lie on the coordinate axes as shown in the figure. The body is acted on by three point loads, of which one is acting at A along 𝑥-axis and another at point B along 𝑦-axis. For the body to be in equilibrium, the third point load acting at point O must be (A) along 𝑧-axis (B) in 𝑥−𝑦 plane but not along 𝑥 or 𝑦 axis (C) in plane but not along or axis 𝑦−𝑧 𝑦 𝑧 (D) in 𝑧−𝑥 plane but not along 𝑧 or 𝑥 axis"
+ },
+ {
+  "set": 1,
+  "n": 28,
+  "img": "me2024-s1-q28.webp",
+  "w": 395,
+  "h": 427,
+  "text": "Q.28 The phases present in pearlite are (A) austenite and ferrite (B) cementite and austenite (C) ferrite and cementite (D) martensite and ferrite"
+ },
+ {
+  "set": 1,
+  "n": 29,
+  "img": "me2024-s1-q29.webp",
+  "w": 662,
+  "h": 391,
+  "text": "Q.29 The “Earing” phenomenon in metal forming is associated with (A) deep drawing (B) rolling (C) extrusion (D) forging"
+ },
+ {
+  "set": 1,
+  "n": 30,
+  "img": "me2024-s1-q30.webp",
+  "w": 641,
+  "h": 415,
+  "text": "Q.30 The grinding wheel used to provide the best surface finish is (A) A36L5V (B) A54L5V (C) A60L5V (D) A80L5V"
+ },
+ {
+  "set": 1,
+  "n": 31,
+  "img": "me2024-s1-q31.webp",
+  "w": 793,
+  "h": 390,
+  "text": "Q.31 The allowance provided to a pattern for easy withdrawal from a sand mold is (A) finishing allowance (B) shrinkage allowance (C) distortion allowance (D) shake allowance"
+ },
+ {
+  "set": 1,
+  "n": 32,
+  "img": "me2024-s1-q32.webp",
+  "w": 846,
+  "h": 454,
+  "text": "Q.32 The most suitable electrode material used for joining low alloy steels using Gas Metal Arc Welding (GMAW) process is (A) copper (B) cadmium (C) low alloy steel (D) tungsten"
+ },
+ {
+  "set": 1,
+  "n": 33,
+  "img": "me2024-s1-q33.webp",
+  "w": 846,
+  "h": 416,
+  "text": "Q.33 The preparatory functions in Computer Numerical Controlled (CNC) machine programing are denoted by the alphabet (A) G (B) M (C) P (D) O"
+ },
+ {
+  "set": 1,
+  "n": 34,
+  "img": "me2024-s1-q34.webp",
+  "w": 848,
+  "h": 702,
+  "text": "Q.34 A set of jobs 𝑈, 𝑉, 𝑊, 𝑋, 𝑌, 𝑍 arrive at time 𝑡= 0 to a production line consisting of two workstations in series. Each job must be processed by both workstations in sequence (i.e., the first followed by the second). The process times (in minutes) for each job on each workstation in the production line are given below. Job U V W X Y Z Workstation 1 5 7 3 4 6 8 Workstation 2 4 6 6 8 5 7 The sequence in which the jobs must be processed by the production line if the total makespan of production is to be minimized is (A) W-X-Z-V-Y-U (B) W-X-V-Z-Y-U (C) W-U-Z-V-Y-X (D) U-Y-V-Z-X-W"
+ },
+ {
+  "set": 1,
+  "n": 35,
+  "img": "me2024-s1-q35.webp",
+  "w": 847,
+  "h": 532,
+  "text": "Q.35 A queueing system has one single server workstation that admits an infinitely long queue. The rate of arrival of jobs to the queueing system follows the Poisson distribution with a mean of 5 jobs/hour. The service time of the server is exponentially distributed with a mean of 6 minutes. In steady state operation of the queueing system, the probability that the server is not busy at any point in time is (A) 0.20 (B) 0.17 (C) 0.50 (D) 0.83"
+ },
+ {
+  "set": 1,
+  "n": 36,
+  "img": "me2024-s1-q36.webp",
+  "w": 805,
+  "h": 551,
+  "text": "Q.36 [1 𝑎 The matrix 3] (where 𝑎> 0) has a negative eigenvalue if 𝑎 is greater than 8 (A) 3 8 (B) 1 8 (C) 1 4 (D) 1 5"
+ },
+ {
+  "set": 1,
+  "n": 37,
+  "img": "me2024-s1-q37.webp",
+  "w": 848,
+  "h": 1112,
+  "text": "Q.37 In the pipe network shown in the figure, all pipes have the same cross-section and can be assumed to have the same friction factor. The pipes connecting points 𝑊, 𝑁, and 𝑆 with point 𝐽 have an equal length 𝐿. The pipe connecting points 𝐽 and 𝐸 has a length 10𝐿. The pressures at the ends 𝑁, 𝐸, and 𝑆 are equal. The flow rate in the pipe connecting and is 𝑄. Assume that the fluid flow is steady, incompressible, and 𝑊 𝐽 the pressure losses at the pipe entrance and junction are negligible. Consider the following statements: I : The flow rate in pipe connecting 𝐽 and 𝐸 is 𝑄/21. II: The pressure difference between 𝐽 and 𝑁 is equal to the pressure difference between 𝐽 and 𝐸. Which one of the following options is CORRECT? (A) I is True and II is False (B) I is False and II is True (C) Both I and II are True (D) Both I and II are False"
+ },
+ {
+  "set": 1,
+  "n": 38,
+  "img": "me2024-s1-q38.webp",
+  "w": 848,
+  "h": 508,
+  "text": "Q.38 A company orders gears in conditions identical to those considered in the economic order quantity (EOQ) model in inventory control. The annual demand is 8000 gears, the cost per order is 300 rupees, and the holding cost is 12 rupees per month per gear. The company uses an order size that is 25% more than the optimal order quantity determined by the EOQ model. The percentage change in the total cost of ordering and holding inventory from that associated with the optimal order quantity is (A) 2.5 (B) 5 (C) 0 (D) 12.5"
+ },
+ {
+  "set": 1,
+  "n": 39,
+  "img": "me2024-s1-q39.webp",
+  "w": 848,
+  "h": 676,
+  "text": "Q.39 At the current basic feasible solution (bfs) 𝒗𝟎 (𝒗𝟎∈ℝ5), the simplex method yields the following form of a linear programming problem in standard form. 𝑚𝑖𝑛𝑖𝑚𝑖𝑧𝑒 𝑧= −𝑥1 −2𝑥2 𝑠. 𝑡. 𝑥3 = 2 + 2𝑥1 −𝑥2 𝑥4 = 7 + 𝑥1 −2𝑥2 𝑥5 = 3 −𝑥1 𝑥1, 𝑥2, 𝑥3, 𝑥4, 𝑥5 ≥0 Here the objective function is written as a function of the non-basic variables. If the simplex method moves to the adjacent bfs (𝒗𝟏∈ℝ5) that best improves the 𝒗𝟏 objective function, which of the following represents the objective function at 𝒗𝟏, assuming that the objective function is written in the same manner as above? (A) 𝑧= −4 −5𝑥1 + 2𝑥3 (B) 𝑧= −3 + 𝑥5 −2𝑥2 (C) 𝑧= −4 −5𝑥1 + 2𝑥4 (D) 𝑧= −6 −5𝑥1 + 2𝑥3"
+ },
+ {
+  "set": 1,
+  "n": 40,
+  "img": "me2024-s1-q40.webp",
+  "w": 849,
+  "h": 795,
+  "text": "Q.40 Steady, compressible flow of air takes place through an adiabatic converging- diverging nozzle, as shown in the figure. For a particular value of pressure difference across the nozzle, a stationary normal shock wave forms in the diverging section of the nozzle. If 𝐸 and 𝐹 denote the flow conditions just upstream and downstream of the normal shock, respectively, which of the following statement(s) is/are TRUE? (A) Static pressure at 𝐸 is lower than the static pressure at 𝐹 (B) Density at 𝐸 is lower than the density at 𝐹 (C) Mach number at 𝐸 is lower than the Mach number at 𝐹 (D) Specific entropy at 𝐸 is lower than the specific entropy at 𝐹"
+ },
+ {
+  "set": 1,
+  "n": 41,
+  "img": "me2024-s1-q41.webp",
+  "w": 659,
+  "h": 675,
+  "text": "Q.41 Which of the following beam(s) is/are statically indeterminate? (A) (B) (C) (D)"
+ },
+ {
+  "set": 1,
+  "n": 42,
+  "img": "me2024-s1-q42.webp",
+  "w": 619,
+  "h": 168,
+  "text": "Q.42 If the value of the double integral 4 2 𝑑𝑦𝑑𝑥 ∫ ∫ (𝑥+ 𝑦)2 𝑥=3 𝑦=1 is loge(𝑎/24), then 𝑎 is ___________ (answer in integer)."
+ },
+ {
+  "set": 1,
+  "n": 43,
+  "img": "me2024-s1-q43.webp",
+  "w": 852,
+  "h": 220,
+  "text": "Q.43 If 𝑥(𝑡) satisfies the differential equation 𝑡𝑑𝑥 𝑑𝑡+ (𝑡−𝑥) = 0 subject to the condition then the value of is ________ (rounded off 𝑥(1) = 0, 𝑥(2) to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 44,
+  "img": "me2024-s1-q44.webp",
+  "w": 847,
+  "h": 86,
+  "text": "Q.44 Let be a continuous random variable defined on such that its probability 𝑋 [0,1] density function 𝑓(𝑥) = 1 for 0 ≤𝑥≤1 and 0 otherwise. Let 𝑌= loge(𝑋+ 1). Then the expected value of is_____. (rounded off to 2 decimal places) 𝑌"
+ },
+ {
+  "set": 1,
+  "n": 45,
+  "img": "me2024-s1-q45.webp",
+  "w": 848,
+  "h": 560,
+  "text": "Q.45 Consider an air-standard Brayton cycle with adiabatic compressor and turbine, and a regenerator, as shown in the figure. Air enters the compressor at 100 kPa and 300 K and exits the compressor at 600 kPa and 550 K. The air exits the combustion chamber at 1250 K and exits the adiabatic turbine at 100 kPa and 800 K. The exhaust air from the turbine is used to preheat the air in the regenerator. The exhaust air exits the regenerator (state 6) at 600 K. There is no pressure drop across the regenerator and the combustion chamber. Also, there is no heat loss from the regenerator to the surroundings. The ratio of specific heats at constant pressure and volume is 𝑐𝑝𝑐𝑣 ⁄ = 1.4. The thermal efficiency of the cycle is _________ % (answer in integer)."
+ },
+ {
+  "set": 1,
+  "n": 46,
+  "img": "me2024-s1-q46.webp",
+  "w": 848,
+  "h": 570,
+  "text": "Q.46 A piston-cylinder arrangement shown in the figure has a stop located 2 m above the base. The cylinder initially contains air at 140 kPa and 350 C and the piston is resting in equilibrium at a position which is 1 m above the stops. The system is now cooled to the ambient temperature of 25 C. Consider air to be an ideal gas with a value of gas constant 𝑅 = 0.287 kJ/(kg.K). The absolute value of specific work done during the process is________kJ/kg (rounded off to 1 decimal place)"
+ },
+ {
+  "set": 1,
+  "n": 47,
+  "img": "me2024-s1-q47.webp",
+  "w": 835,
+  "h": 497,
+  "text": "Q.47 A heat pump (H.P.) is driven by the work output of a heat engine (H.E.) as shown in the figure. The heat engine extracts 150 kJ of heat from the source at 1000 K. The heat pump absorbs heat from the ambient at 280 K and delivers heat to the room which is maintained at 300 K. Considering the combined system to be ideal, the total amount of heat delivered to the room together by the heat engine and heat pump is _______kJ (answer in integer)."
+ },
+ {
+  "set": 1,
+  "n": 48,
+  "img": "me2024-s1-q48.webp",
+  "w": 831,
+  "h": 506,
+  "text": "Q.48 Consider a slab of 20 mm thickness. There is a uniform heat generation of MW/m3 inside the slab. The left and right faces of the slab are 𝑞̇ = 100 maintained at 150 C and 110 C, respectively. The plate has a constant thermal conductivity of 200 W/(m.K). Considering a 1-D steady state heat conduction, the location of the maximum temperature from the left face will be at _____mm (answer in integer)."
+ },
+ {
+  "set": 1,
+  "n": 49,
+  "img": "me2024-s1-q49.webp",
+  "w": 834,
+  "h": 193,
+  "text": "Q.49 A condenser is used as a heat exchanger in a large steam power plant in which steam is condensed to liquid water. The condenser is a shell and tube heat exchanger which consists of 1 shell and 20,000 tubes. Water flows through each C. of the tubes at a rate of 1 kg/s with an inlet temperature of 30 The steam in the condenser shell condenses at the rate of 430 kg/s at a temperature of 50 C. If the heat of vaporization is 2.326 MJ/kg and specific heat of water is 4 kJ/(kg.K), the effectiveness of the heat exchanger is ________ (rounded off to 3 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 50,
+  "img": "me2024-s1-q50.webp",
+  "w": 837,
+  "h": 425,
+  "text": "Q.50 Consider a hemispherical furnace of diameter 𝐷 = 6 m with a flat base. The dome of the furnace has an emissivity of 0.7 and the flat base is a blackbody. The base and the dome are maintained at uniform temperature of 300 K and 1200 K, respectively. Under steady state conditions, the rate of radiation heat transfer from the dome to the base is ________kW (rounded off to the nearest integer). Use Stefan-Boltzmann constant = 5.67 ×10-8 W/(m2 K4)"
+ },
+ {
+  "set": 1,
+  "n": 51,
+  "img": "me2024-s1-q51.webp",
+  "w": 838,
+  "h": 282,
+  "text": "Q.51 A liquid fills a horizontal capillary tube whose one end is dipped in a large pool of the liquid. Experiments show that the distance 𝐿 travelled by the liquid meniscus inside the capillary in time is given by 𝑡 𝑘𝛾𝑎𝑅𝑏𝜇𝑐√𝑡, 𝐿= where is the surface tension, is the inner radius of the capillary, and is the 𝛾 𝑅 𝜇 dynamic viscosity of the liquid. If 𝑘 is a dimensionless constant, then the exponent 𝑎 is __________ (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 52,
+  "img": "me2024-s1-q52.webp",
+  "w": 821,
+  "h": 576,
+  "text": "Q.52 The Levai type-A train illustrated in the figure has gears with module 𝑚= 8 mm/tooth. Gears 2 and 3 have 19 and 24 teeth respectively. Gear 2 is fixed and internal gear 4 rotates at 20 rev/min counter-clockwise. The magnitude of angular velocity of the arm is__________ rev/min. (rounded off to 2 decimal places)"
+ },
+ {
+  "set": 1,
+  "n": 53,
+  "img": "me2024-s1-q53.webp",
+  "w": 833,
+  "h": 350,
+  "text": "Q.53 A horizontal beam of length 1200 mm is pinned at the left end and is resting on a roller at the other end as shown in the figure. A linearly varying distributed load is applied on the beam. The magnitude of maximum bending moment acting on the beam is _______ N.m. (round off to 1 decimal place)"
+ },
+ {
+  "set": 1,
+  "n": 54,
+  "img": "me2024-s1-q54.webp",
+  "w": 846,
+  "h": 706,
+  "text": "Q.54 At the instant when OP is vertical and AP is horizontal, the link OD is rotating counter clockwise at a constant rate 𝜔= 7 rad/s. Pin P on link OD slides in the slot BC of link ABC which is hinged at A, and causes a clockwise rotation of the link ABC. The magnitude of angular velocity of link ABC for this instant is _________________ rad/s (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 55,
+  "img": "me2024-s1-q55.webp",
+  "w": 839,
+  "h": 849,
+  "text": "Q.55 A vibratory system consists of mass 𝑚, a vertical spring of stiffness and a 2𝑘 horizontal spring of stiffness 𝑘. The end A of the horizontal spring is given a horizontal motion 𝜔𝑡. The other end of the spring is connected to an 𝑥𝐴= 𝑎sin inextensible rope that passes over two massless pulleys as shown. Assume kg, kN/m, and neglect friction. The magnitude of critical driving 𝑚= 10 𝑘 = 1.5 frequency for which the oscillations of mass 𝑚 tend to become excessively large is _________ rad/s (answer in integer). A solid massless cylindrical member of 50 mm diameter is rigidly attached at one"
+ },
+ {
+  "set": 1,
+  "n": 56,
+  "img": "me2024-s1-q56.webp",
+  "w": 822,
+  "h": 383,
+  "text": "Q.56 end, and is subjected to an axial force 𝑃= 100 kN and a torque 𝑇= 600 N. m at the other end as shown. Assume that the axis of the cylinder is normal to the support. Considering distortion energy theory with allowable yield stress as 300 MPa, the factor of safety in the design is _____ (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 57,
+  "img": "me2024-s1-q57.webp",
+  "w": 838,
+  "h": 378,
+  "text": "Q.57 The figure shows a thin cylindrical pressure vessel constructed by welding plates together along a line that makes an angle 𝛼= 60° with the horizontal. The closed vessel has a wall thickness of 10 mm and diameter of 2 m. When subjected to an internal pressure of 200 kPa, the magnitude of the normal stress acting on the weld is _________ MPa (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 58,
+  "img": "me2024-s1-q58.webp",
+  "w": 824,
+  "h": 443,
+  "text": "Q.58 A three-hinge arch ABC in the form of a semi-circle is shown in the figure. The arch is in static equilibrium under vertical loads of 𝑃= 100 kN and 𝑄= 50 kN. Neglect friction at all the hinges. The magnitude of the horizontal reaction at B is ______ kN (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 59,
+  "img": "me2024-s1-q59.webp",
+  "w": 833,
+  "h": 417,
+  "text": "Q.59 A band brake shown in the figure has a coefficient of friction of 0.3. The band can take a maximum force of 1.5 kN. The maximum braking force (F) that can be safely applied is _______ N (rounded off to the nearest integer)."
+ },
+ {
+  "set": 1,
+  "n": 60,
+  "img": "me2024-s1-q60.webp",
+  "w": 845,
+  "h": 163,
+  "text": "Q.60 A cutting tool provides a tool life of 60 minutes while machining with the cutting speed of 60 m/min. When the same tool is used for machining the same material, it provides a tool life of 10 minutes for a cutting speed of 100 m/min. If the cutting speed is changed to 80 m/min for the same tool and work material combination, the tool life computed using Taylor’s tool life model is____________ minutes (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 61,
+  "img": "me2024-s1-q61.webp",
+  "w": 843,
+  "h": 137,
+  "text": "Q.61 Aluminium is casted in a cube-shaped mold having dimensions as 20 mm × 20 mm × 20 mm. Another mold of the same mold material is used to cast a sphere of aluminium having a diameter of 20 mm. The pouring temperature for both cases is the same. The ratio of the solidification times of the cube-shaped mold to the spherical mold is ________ (answer in integer)."
+ },
+ {
+  "set": 1,
+  "n": 62,
+  "img": "me2024-s1-q62.webp",
+  "w": 834,
+  "h": 147,
+  "text": "Q.62 A blanking operation is performed on C20 steel sheet to obtain a circular disc having a diameter of 20 mm and a thickness of 2 mm. An allowance of 0.04 is provided. The punch size used for the operation is ___________ mm (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 63,
+  "img": "me2024-s1-q63.webp",
+  "w": 837,
+  "h": 137,
+  "text": "Q.63 In an arc welding process, the voltage and current are 30 V and 200 A, mm2 respectively. The cross-sectional area of the joint is 20 and the welding speed is 5 mm/s. The heat required to melt the material is 20 J/s. The percentage of heat lost to the surrounding during the welding process is _________ (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 64,
+  "img": "me2024-s1-q64.webp",
+  "w": 840,
+  "h": 137,
+  "text": "Q. 64 A flat surface of a C60 steel having dimensions of 100 mm (length) × 200 mm (width) is produced by a HSS slab mill cutter. The 8-toothed cutter has 100 mm diameter and 200 mm width. The feed per tooth is 0.1 mm, cutting velocity is 20 m/min and depth of cut is 2 mm. The machining time required to remove the entire stock is _____________ minutes (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 65,
+  "img": "me2024-s1-q65.webp",
+  "w": 848,
+  "h": 373,
+  "text": "Q.65 In a supplier-retailer supply chain, the demand of each retailer, the capacity of each supplier, and the unit cost in rupees of material supply from each supplier to each retailer are tabulated below. The supply chain manager wishes to minimize the total cost of transportation across the supply chain. Retailer I Retailer II Retailer III Retailer IV Capacity Supplier A 11 16 19 13 300 Supplier B 5 10 7 8 300 Supplier C 12 14 17 11 300 Supplier D 8 15 11 9 300 Demand 300 300 300 300 The optimal cost of satisfying the total demand from all retailers is _____ rupees (answer in integer)."
+ }
+]

@@ -231,7 +231,7 @@ export function mountPractice(root, D, params) {
         ? `<div class="hint" style="margin:16px 0">Descriptive question: work it out, then reveal the answer.</div>`
         : q.t === "nat"
         ? `<div class="nat"><input id="nat" inputmode="decimal" autocomplete="off" placeholder="Enter your answer" value="${esc(natVal)}" ${locked ? "disabled" : ""} class="${locked && q.a ? (checkAnswer(q, natVal) ? "right" : "wrong") : ""}"><span class="hint">Numerical answer type${q.a && q.a.some(([lo, hi]) => lo !== hi) ? " · a range of values is accepted" : ""}</span></div>`
-        : `<div class="options" role="${q.t === "msq" ? "group" : "radiogroup"}">${q.o
+        : `<div class="options${q.o.every((o) => !o) ? " bare" : ""}" role="${q.t === "msq" ? "group" : "radiogroup"}">${q.o
             .map((o, i) => {
               const L = "ABCD"[i];
               let cls = sel.has(L) ? "sel" : "";

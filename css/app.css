@@ -519,3 +519,9 @@ kbd { font: 600 11px var(--mono); padding: 1px 6px; border-radius: 5px; border: 
 .timer-num { font-size: 26px; font-weight: 600; min-width: 64px; text-align: right; }
 .q-card.paused > *:not(.pause-note) { filter: blur(8px); pointer-events: none; }
 .pause-note { position: absolute; inset: 0; z-index: 3; display: grid; place-items: center; font-weight: 700; font-size: 18px; background: color-mix(in srgb, var(--surface) 60%, transparent); }
+
+/* questions shown as an image of the official paper: the option text is in the image, so the buttons are just letters */
+.options.bare { grid-template-columns: repeat(4, minmax(0, 1fr)); max-width: 520px; }
+.options.bare .opt { justify-content: center; align-items: center; }
+.options.bare .opt .T { display: none; }
+.q-body img.qimg { display: block; padding: 10px 12px; }

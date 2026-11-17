@@ -83,7 +83,7 @@ export function branchHome(root, D) {
       <div class="card"><div class="stat"><b>${store.bookmarks().filter((i) => i.startsWith(b + "-")).length}</b><span>Bookmarked</span></div></div>
       <div class="card"><div class="stat"><b>${t.total - t.attempted}</b><span>Remaining</span></div></div>
     </div>
-    ${D.questions.length ? "" : `<div class="card pad" style="margin-bottom:18px"><b>No questions loaded yet</b><div class="hint">The question bank is empty. Add questions with <code>tools/import.py</code> (see the README) and they will appear here under the subjects below.</div></div>`}
+    ${D.questions.length ? "" : `<div class="card pad" style="margin-bottom:18px"><b>No questions loaded yet</b><div class="hint">The question bank is empty. Add questions with the scripts in <code>tools/</code> (see the README) and they will appear here under the subjects below.</div></div>`}
     <h3 style="margin-bottom:10px">Practise by year</h3>
     <div class="year-strip">${D.years.map((y) => `<a class="chip" href="#/${b}/practice?y=${y}">${y}</a>`).join("")}</div>
     <div class="topic-head"><h3>Practise by subject &amp; topic</h3><input class="field" id="topic-find" type="search" placeholder="Find a topic… e.g. Mohr’s circle, Rankine, casting" aria-label="Find a topic"></div>

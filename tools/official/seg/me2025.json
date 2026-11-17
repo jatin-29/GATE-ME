@@ -1,0 +1,522 @@
+[
+ {
+  "set": 1,
+  "n": 1,
+  "img": "me2025-s1-q1.webp",
+  "w": 882,
+  "h": 1073,
+  "text": "Q.1 Fish : Shoal :: Lion : _______ Select the correct option to complete the analogy. (A) Pride (B) School (C) Forest (D) Series"
+ },
+ {
+  "set": 1,
+  "n": 2,
+  "img": "me2025-s1-q2.webp",
+  "w": 882,
+  "h": 1164,
+  "text": "Q.2 Identify the grammatically correct sentence: (A) It is I who am responsible for this fiasco. (B) It is myself who is responsible for this fiasco. (C) It is I who is responsible for this fiasco. (D) It is I who are responsible for this fiasco."
+ },
+ {
+  "set": 1,
+  "n": 3,
+  "img": "me2025-s1-q3.webp",
+  "w": 882,
+  "h": 1164,
+  "text": "Q.3 Two cars, P and Q, start from a point X in India at 10 AM. Car P travels North with a speed of 25 km/h and car Q travels East with a speed of 30 km/h. Car P travels continuously but car Q stops for some time after travelling for one hour. If both the cars are at the same distance from X at 11:30 AM, for how long (in minutes) did car Q stop? (A) 10 (B) 12 (C) 15 (D) 18"
+ },
+ {
+  "set": 1,
+  "n": 4,
+  "img": "me2025-s1-q4.webp",
+  "w": 882,
+  "h": 1208,
+  "text": "Q.4 The ceiling function of a real number 𝑥, denoted by 𝑐𝑒(𝑥), is defined as the smallest integer that is greater than or equal to 𝑥. Similarly, the floor function, denoted by 𝑓𝑙(𝑥), is defined as the largest integer that is smaller than or equal to 𝑥. Which one of the following statements is NOT correct for all possible values of 𝑥? (A) 𝑐𝑒(𝑥) ≥𝑥 (B) 𝑓𝑙(𝑥) ≤𝑥 (C) 𝑐𝑒(𝑥) ≥𝑓𝑙(𝑥) (D) 𝑓𝑙(𝑥) < 𝑐𝑒(𝑥)"
+ },
+ {
+  "set": 1,
+  "n": 5,
+  "img": "me2025-s1-q5.webp",
+  "w": 870,
+  "h": 1083,
+  "text": "Q.5 P and Q play chess frequently against each other. Of these matches, P has won 80% of the matches, drawn 15% of the matches and lost 5% of the matches. If they play 3 more matches, what is the probability of P winning exactly 2 of these 3 matches? (A) 48 125 (B) 16 125 (C) 16 25 (D) 25 48"
+ },
+ {
+  "set": 1,
+  "n": 6,
+  "img": "me2025-s1-q6.webp",
+  "w": 882,
+  "h": 1078,
+  "text": "Q.6 Identify the option that has the most appropriate sequence such that a coherent paragraph is formed: P. At once, without thinking much, people rushed towards the city in hordes with the sole aim of grabbing as much gold as they could. Q. However, little did they realize about the impending hardships they would have to face on their way to the city: miles of mud, unfriendly forests, hungry beasts and inimical local lords – all of which would reduce their chances of getting gold to almost zero. R. All of them thought that easily they could lay their hands on gold and become wealthy overnight. S. About a hundred years ago, the news that gold had been discovered in Kolar spread like wildfire and the whole State was in raptures. (A) P → Q → R → S (B) Q → S → R → P (C) S → Q → P → R (D) S → P → R → Q"
+ },
+ {
+  "set": 1,
+  "n": 7,
+  "img": "me2025-s1-q7.webp",
+  "w": 882,
+  "h": 1164,
+  "text": "Q.7 If HIDE and CAGE are coded as 19-23-7-11 and 5-2-17-11 respectively, then what is the code for HIGH? (A) 5-17-1-2 (B) 17-19-13-17 (C) 13-3-1-2 (D) 19-23-17-19"
+ },
+ {
+  "set": 1,
+  "n": 8,
+  "img": "me2025-s1-q8.webp",
+  "w": 882,
+  "h": 1356,
+  "text": "Q.8 The given figure is reflected about the horizontal dashed line and then rotated clockwise by 90° about an axis perpendicular to the plane of the figure. Which one of the following options correctly shows the resultant figure? Note: The figures shown are representative. (A) (B) (C) (D)"
+ },
+ {
+  "set": 1,
+  "n": 9,
+  "img": "me2025-s1-q9.webp",
+  "w": 870,
+  "h": 625,
+  "text": "Q.9 Which one of the following options has the correct sequence of objects arranged in the increasing number of mirror lines (lines of symmetry)? (A) Circle; Square; Equilateral triangle; Isosceles triangle (B) Isosceles triangle; Equilateral triangle; Square; Circle (C) Equilateral triangle; Isosceles triangle; Square; Circle (D) Isosceles triangle; Square; Equilateral triangle; Circle"
+ },
+ {
+  "set": 1,
+  "n": 10,
+  "img": "me2025-s1-q10.webp",
+  "w": 870,
+  "h": 665,
+  "text": "Q.10 A final year student appears for placement interview in two companies, S and T. Based on her interview performance, she estimates the probability of receiving job offers from companies S and T to be 0.8 and 0.6, respectively. Let 𝑝 be the probability that she receives job offers from both the companies. Select the most appropriate option. (A) 0 ≤𝑝≤0.2 (B) 0.4 ≤𝑝≤0.6 (C) 0.2 ≤𝑝≤0.4 (D) 0.6 ≤𝑝≤1.0"
+ },
+ {
+  "set": 1,
+  "n": 11,
+  "img": "me2025-s1-q11.webp",
+  "w": 870,
+  "h": 537,
+  "text": "Q.11 Let A and B be real symmetric matrices of same size. Which one of the following options is correct? (A) AT = A-1 (B) AB = BA (C) (AB)T = BTAT (D) A = A-1"
+ },
+ {
+  "set": 1,
+  "n": 12,
+  "img": "me2025-s1-q12.webp",
+  "w": 882,
+  "h": 740,
+  "text": "Q.12 For the differential equation given below, which one of the following options is correct? 𝜕2𝑢 𝜕2𝑢 + = 0 0 ≤𝑥≤1, 0 ≤𝑦≤1 𝜕𝑥2 𝜕𝑦2 (A) 𝑒𝑥+𝑦 is a solution for all x and y 𝑢= (B) 𝑢= 𝑒𝑥sin 𝑦 is a solution for all x and y (C) 𝑢= sin 𝑥 sin 𝑦 is a solution for all x and y (D) is a solution for all x and y 𝑢= cos 𝑥 cos 𝑦"
+ },
+ {
+  "set": 1,
+  "n": 13,
+  "img": "me2025-s1-q13.webp",
+  "w": 870,
+  "h": 511,
+  "text": "Q.13 The divergence of the curl of a vector field is (A) the magnitude of this vector field (B) the argument of this vector field (C) the magnitude of the curl of this vector field (D) zero"
+ },
+ {
+  "set": 1,
+  "n": 14,
+  "img": "me2025-s1-q14.webp",
+  "w": 882,
+  "h": 768,
+  "text": "Q.14 If two unbiased coins are tossed, then what is the probability of having at least one head? (A) 0.25 (B) 0.5 (C) 0.675 (D) 0.75"
+ },
+ {
+  "set": 1,
+  "n": 15,
+  "img": "me2025-s1-q15.webp",
+  "w": 882,
+  "h": 1164,
+  "text": "Q.15 Let a spherical block of ice at –7 oC be exposed to atmospheric air at 30 oC with the gravitational direction as shown in the figure below. What will be the overall direction of air flow in this situation? (A) Upward (B) Downward (C) NO motion (D) Sideward"
+ },
+ {
+  "set": 1,
+  "n": 16,
+  "img": "me2025-s1-q16.webp",
+  "w": 882,
+  "h": 1164,
+  "text": "Q. 16 Consider two identical tanks with a bottom hole of diameter d. One tank is filled with water and the other tank is filled with engine oil. The height of the fluid column h is same in both the cases. The fluid exit velocity in the two tanks are 𝑉1 and Neglecting all losses, which one of the following options is correct? 𝑉2. (A) 𝑉2 > 𝑉1 (B) 𝑉2 = 𝑉1 (C) 𝑉2 < 𝑉1 (D) Insufficient data to definitively conclude the relationship between and 𝑉1 𝑉2"
+ },
+ {
+  "set": 1,
+  "n": 17,
+  "img": "me2025-s1-q17.webp",
+  "w": 882,
+  "h": 1164,
+  "text": "Q. 17 In a laboratory experiment using a scaled down model to measure scour at a bridge pier, the Froude number is important. The ratio of the prototype length to the model length is 100. If the velocity of the model is 1 m s-1, the velocity (in m s-1) of the prototype is (A) 0.1 (B) 1 (C) 10 (D) 100"
+ },
+ {
+  "set": 1,
+  "n": 18,
+  "img": "me2025-s1-q18.webp",
+  "w": 870,
+  "h": 854,
+  "text": "Q.18 Air inside a rigid, thermally-insulated tank undergoes stirring as shown in the figure below. Which one of the following options is correct? (A) The enthalpy of the air increases while the entropy of the air remains constant (B) Both the enthalpy and the entropy of the air remain constant (C) Both the enthalpy and the entropy of the air increase (D) The enthalpy of the air decreases while the entropy of the air increases"
+ },
+ {
+  "set": 1,
+  "n": 19,
+  "img": "me2025-s1-q19.webp",
+  "w": 882,
+  "h": 476,
+  "text": "Q.19 In a psychrometric chart, one axis represents dry-bulb temperature. The axis, that is perpendicular to the dry-bulb temperature axis, represents (A) wet-bulb temperature (B) specific humidity (C) relative humidity (D) enthalpy"
+ },
+ {
+  "set": 1,
+  "n": 20,
+  "img": "me2025-s1-q20.webp",
+  "w": 870,
+  "h": 537,
+  "text": "Q.20 Among the following surface hardening processes, steel is heated to the lowest temperature in (A) carburizing (B) cyaniding (C) nitriding (D) carbonitriding"
+ },
+ {
+  "set": 1,
+  "n": 21,
+  "img": "me2025-s1-q21.webp",
+  "w": 882,
+  "h": 621,
+  "text": "Q.21 The welding process commonly used for fabricating tailor-welded blanks of dissimilar thickness for automotive applications is (A) gas welding (B) laser welding (C) arc welding (D) friction welding"
+ },
+ {
+  "set": 1,
+  "n": 22,
+  "img": "me2025-s1-q22.webp",
+  "w": 870,
+  "h": 537,
+  "text": "Q.22 The yield stress of a metal in uniaxial tension is 200 MPa. According to von Mises yield criterion, the yield stress (in MPa) of the metal in pure shear is closest to (A) 115.5 (B) 100.0 (C) 66.7 (D) 141.4"
+ },
+ {
+  "set": 1,
+  "n": 23,
+  "img": "me2025-s1-q23.webp",
+  "w": 882,
+  "h": 629,
+  "text": "Q.23 In computer aided design (CAD), solid models can be constructed using (A) boundary representation (B-rep) (B) Bezier curves (C) B-splines (D) nonuniform rational B-splines (NURBS)"
+ },
+ {
+  "set": 1,
+  "n": 24,
+  "img": "me2025-s1-q24.webp",
+  "w": 870,
+  "h": 511,
+  "text": "Q.24 Ceramics and glass are machined by (A) electric discharge machining (B) ultrasonic machining (C) electrochemical machining (D) transferred arc plasma machining"
+ },
+ {
+  "set": 1,
+  "n": 25,
+  "img": "me2025-s1-q25.webp",
+  "w": 882,
+  "h": 655,
+  "text": "Q.25 +0.030 +0.020 When assembled, the hole 30 mm and shaft 30 mm will result in +0.000 −0.020 (A) loose fit (B) interference fit (C) transition fit (D) clearance fit"
+ },
+ {
+  "set": 1,
+  "n": 26,
+  "img": "me2025-s1-q26.webp",
+  "w": 882,
+  "h": 1164,
+  "text": "Q.26 A rigid circular disc of radius 𝑟 (in m) is rolling without slipping on a flat surface  s-1). as shown in the figure below. The angular velocity of the disc is (in rad The velocities (in m s-1) at points and respectively, are 𝑂 𝐴, (A) 𝑟 𝑖̂ and 0 𝑖̂ 𝑟 (B) − 𝑖̂ and 0 𝑖̂ (C) 𝑟 and 𝑟 − 𝑖̂ − 𝑖̂ (D) 𝑟 𝑖̂ and 𝑟 𝑖̂"
+ },
+ {
+  "set": 1,
+  "n": 27,
+  "img": "me2025-s1-q27.webp",
+  "w": 882,
+  "h": 1164,
+  "text": "Q.27 A truss structure is loaded as shown in the figure below. Among the options given, which member in the truss is a zero-force member? (A) BD (B) BC (C) BA (D) AD"
+ },
+ {
+  "set": 1,
+  "n": 28,
+  "img": "me2025-s1-q28.webp",
+  "w": 882,
+  "h": 1249,
+  "text": "Q.28 A metallic square plate is subjected to a uniform hydrostatic pressure (P). Choose the correct Mohr’s circle representing the state of stress at any point in the plate from the options given below. For the Mohr’s circle, normal stress is positive towards right and shear stress is positive in the upward direction. (A) (B) (C) (D)"
+ },
+ {
+  "set": 1,
+  "n": 29,
+  "img": "me2025-s1-q29.webp",
+  "w": 870,
+  "h": 642,
+  "text": "Q.29 In the context of balancing of rotating and reciprocating masses, which one of the following options is true? (A) An unbalanced rigid rotor can be completely balanced using a single balancing mass (B) An unbalanced rigid rotor can be completely balanced using two balancing masses attached in two distinct planes (C) A single-cylinder internal combustion engine can be completely balanced using a single balancing mass (D) A single-cylinder internal combustion engine can be completely balanced using two balancing masses"
+ },
+ {
+  "set": 1,
+  "n": 30,
+  "img": "me2025-s1-q30.webp",
+  "w": 882,
+  "h": 548,
+  "text": "Q.30 A shaft carries a helical spur gear. Which one of the following bearings can NOT be used to support it? (A) Angular contact bearing (B) Double-row ball bearing (C) Straight roller bearing (D) Tapered roller bearing"
+ },
+ {
+  "set": 1,
+  "n": 31,
+  "img": "me2025-s1-q31.webp",
+  "w": 870,
+  "h": 525,
+  "text": "Q.31 The values of a function 𝑓 obtained for different values of x are shown in the table below. x 0 0.25 0.5 0.75 1.0 𝑓(x) 0.9 2.0 1.5 1.8 0.4 Using Simpson’s one-third rule, 1  ∫𝑓(𝑥) 𝑑𝑥 ______ (rounded off to 2 decimal places). 0"
+ },
+ {
+  "set": 1,
+  "n": 32,
+  "img": "me2025-s1-q32.webp",
+  "w": 870,
+  "h": 273,
+  "text": "Q.32 The thermal efficiency of an ideal air-standard Otto cycle is 0.5. The value of specific heat ratio of air is 1.4. The compression ratio of the cycle is ______________ (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 33,
+  "img": "me2025-s1-q33.webp",
+  "w": 882,
+  "h": 558,
+  "text": "Q.33 During a welding operation, thermal power of 2500 W is incident normally on a metallic surface. As shown in the figure below (figure is NOT to scale), the heated area is circular. Out of the incident power, 85% of the power is absorbed within a circle of radius 5 mm while 65% is absorbed within an inner concentric circle of radius 3 mm. The power density in the shaded area is _________ W mm-2 (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 34,
+  "img": "me2025-s1-q34.webp",
+  "w": 870,
+  "h": 325,
+  "text": "Q.34 A liquid metal is poured in a mold cavity of size 200 mm × 200 mm × 200 mm. The cooling is uniform in all directions with NO additional compensation for shrinkage. Considering the volumetric shrinkage during solidification and solid contraction as 7% and 8%, respectively, the length of the cube edge after cooling down to the room temperature is _______ mm (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 35,
+  "img": "me2025-s1-q35.webp",
+  "w": 870,
+  "h": 803,
+  "text": "Q.35 A block of mass 1 kg connected to a spring of stiffness 10 N m−1 is operating in a viscous medium such that the damping ratio (or damping factor) is equal to the ratio of the damped frequency to the natural frequency. The magnitude of the damping ratio for this system is ________ (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 36,
+  "img": "me2025-s1-q36.webp",
+  "w": 870,
+  "h": 585,
+  "text": "Q.36 In the closed interval [0, 3], the minimum value of the function 𝑓 given below is 2𝑥3 −9𝑥2 𝑓(𝑥) = + 12𝑥 (A) 0 (B) 4 (C) 5 (D) 9"
+ },
+ {
+  "set": 1,
+  "n": 37,
+  "img": "me2025-s1-q37.webp",
+  "w": 882,
+  "h": 695,
+  "text": "Q.37 Considering the actual demand and the forecast for a product given in the table below, the mean forecast error and the mean absolute deviation, respectively, are Period 1 2 3 4 5 6 7 8 9 10 Actual demand 425 415 420 430 427 418 422 416 426 421 Forecast 427 422 416 422 423 420 419 418 430 415 (A) 0.8 and 42.0 (B) 0.8 and 4.2 (C) 8.0 and 42.0 (D) 8.0 and 4.2"
+ },
+ {
+  "set": 1,
+  "n": 38,
+  "img": "me2025-s1-q38.webp",
+  "w": 882,
+  "h": 1164,
+  "text": "Q.38 Match the mold elements in the casting process with the most suitable function Mold element Function P Blind riser I Casting with internal cavity Q Chill II Molten metal reservoir R Skim bob III Nucleating agent S Core IV Assisting in faster heat removal from melt T Insulating sleeve V Removal of impurities U Inoculant VI Increasing the solidification time (A) P-II, Q-IV, R-V, S-I, T-VI, U-III (B) P-II, Q-V, R-VI, S-I, T-III, U-IV (C) P-V, Q-I, R-VI, S-III, T-II, U-IV (D) P-II, Q-IV, R-I, S-V, T-VI, U-III"
+ },
+ {
+  "set": 1,
+  "n": 39,
+  "img": "me2025-s1-q39.webp",
+  "w": 882,
+  "h": 1164,
+  "text": "Q.39 Wire drawing operation is performed on a perfectly plastic metal without any strain hardening. Assuming no friction and no redundant work, the maximum possible percentage reduction in area in a single pass is closest to (A) 51.2 (B) 63.2 (C) 75.0 (D) 93.2"
+ },
+ {
+  "set": 1,
+  "n": 40,
+  "img": "me2025-s1-q40.webp",
+  "w": 882,
+  "h": 1164,
+  "text": "Q.40 In relation to additive manufacturing, match the following Process Layer creation Material technique P Stereolithography 1 Injection of I Paper powder stream Q Fused deposition 2 Extrusion of II Epoxy modeling melted polymer R Laminated object 3 Liquid layer III Titanium manufacturing curing S Laser-engineered 4 Sheet material IV Acrylonitrile butadiene net shaping deposition styrene (ABS) (A) P-3-III, Q-1-IV, R-4-I, S-2-II (B) P-3-II, Q-2-IV, R-4-I, S-1-III (C) P-4-III, Q-2-IV, R-1-II, S-3-I (D) P-3-II, Q-2-IV, R-1-I, S-4-III"
+ },
+ {
+  "set": 1,
+  "n": 41,
+  "img": "me2025-s1-q41.webp",
+  "w": 882,
+  "h": 1164,
+  "text": "Q.41 A plate of 30 mm thickness is fed through a rolling mill with two powered rolls. Each roll has a diameter of 500 mm. The plate thickness is to be reduced to 27 mm in a single pass. Assume no change in width. The process feasibility and the maximum draft (in mm) can be represented, respectively, as Use the coefficient of friction as 0.12 (A) feasible and 3.6 (B) NOT feasible and 2.6 (C) feasible and 3.0 (D) NOT feasible and 6.0"
+ },
+ {
+  "set": 1,
+  "n": 42,
+  "img": "me2025-s1-q42.webp",
+  "w": 882,
+  "h": 1158,
+  "text": "Q.42 The system shown in the figure below consists of a cantilever beam (with flexural rigidity and negligible mass), a spring (with spring constant and negligible 𝐸𝐼 𝐾 mass) and a block of mass 𝑚. Assuming a lumped parameter model for the system, the fundamental natural frequency (𝜔𝑛) of the system is (A) 3𝐸𝐼 + 𝐾 √ 𝐿3 𝑚 (B) 𝐸𝐼 + 𝐾 √ 𝐿3 𝑚 (C) 3𝐸𝐼 + 𝐾 √ 𝐿3 2𝑚 (D) 𝐸𝐼 + 𝐾 √ 𝐿3 2𝑚"
+ },
+ {
+  "set": 1,
+  "n": 43,
+  "img": "me2025-s1-q43.webp",
+  "w": 870,
+  "h": 642,
+  "text": "Q.43 The endurance limit of a specific grade of steel is same as its yield strength. The ultimate strength of this grade of steel is twice of its yield strength. A component made of this steel is loaded in tension and unloaded periodically. It is required that the component does NOT fail for at least 106 loading cycles, as per the Soderberg law. Considering a factor of safety of 2, the maximum applied tensile principal stress is (A) one-fourth of the endurance limit (B) half of the endurance limit (C) the endurance limit (D) twice the endurance limit"
+ },
+ {
+  "set": 1,
+  "n": 44,
+  "img": "me2025-s1-q44.webp",
+  "w": 882,
+  "h": 548,
+  "text": "Q.44 For a fully-developed pipe flow, which of the following options is/are correct? (A) For the same maximum velocity, the average velocity is higher in the turbulent regime than that of the laminar regime (B) Compressibility effects are important if Mach number is less than 0.3 (C) For laminar flow, the friction factor is independent of surface roughness (D) For laminar flow, friction factor decreases with decrease in Reynolds number"
+ },
+ {
+  "set": 1,
+  "n": 45,
+  "img": "me2025-s1-q45.webp",
+  "w": 870,
+  "h": 354,
+  "text": "Q.45 If 𝐶 is the unit circle in the complex plane with its center at the origin, then the value of 𝑛 in the equation given below is __________ (rounded off to 1 decimal place). 𝑧3 ∮ 𝑑𝑧= 2 𝜋 𝑖 𝑛 (𝑧2 + 4) (𝑧2 −4) 𝐶"
+ },
+ {
+  "set": 1,
+  "n": 46,
+  "img": "me2025-s1-q46.webp",
+  "w": 870,
+  "h": 332,
+  "text": "Q.46 The directional derivative of the function 𝑓 given below at the point (1, 0) in the 1 direction of (𝑖̂ + √3 𝑗̂) is ____________ (rounded off to 1 decimal place). 2 𝑓(𝑥, 𝑦) 𝑥2 𝑥𝑦2 = +"
+ },
+ {
+  "set": 1,
+  "n": 47,
+  "img": "me2025-s1-q47.webp",
+  "w": 882,
+  "h": 481,
+  "text": "Q.47 Let 𝑦 be the solution of the differential equation with the initial conditions given below. If 𝑦(𝑥= 2) = 𝐴 ln 2, then the value of 𝐴 is ____________ (rounded off to 2 decimal places). 𝑑2𝑦 3𝑥𝑑𝑦 𝑑𝑦 𝑥2 + 𝑑𝑥+ 𝑦= 0 𝑦(𝑥= 1) = 0 𝑑𝑥(𝑥= 1) = 1 𝑑𝑥2"
+ },
+ {
+  "set": 1,
+  "n": 48,
+  "img": "me2025-s1-q48.webp",
+  "w": 882,
+  "h": 1164,
+  "text": "Q.48 Consider a cylindrical furnace of 5 m diameter and 5 m length with bottom, top and curved surfaces maintained at uniform temperatures of 800 K, 1500 K and 500 K, respectively. The view factor between the bottom and top surfaces, F12 is 0.2. The magnitude of net radiation heat transfer rate between the bottom surface and the curved surface is _____________ kW (rounded off to 1 decimal place). All surfaces of the furnace can be assumed as black. 10-8 m-2 K-4. The Stefan-Boltzmann constant, 𝜎 = 5.67 × W"
+ },
+ {
+  "set": 1,
+  "n": 49,
+  "img": "me2025-s1-q49.webp",
+  "w": 870,
+  "h": 769,
+  "text": "Q.49 A pitot tube connected to a U-tube mercury manometer measures the speed of air flowing in the wind tunnel as shown in the figure below. The density of air is 1.23 kg m-3 while the density of water is 1000 kg m-3. For the manometer reading of ℎ= 30 mm of mercury, the speed of air in the wind tunnel is _____________ m s-1 (rounded off to 1 decimal place). Assume: Specific gravity of mercury =13.6 Acceleration due to gravity = 10 m s-2"
+ },
+ {
+  "set": 1,
+  "n": 50,
+  "img": "me2025-s1-q50.webp",
+  "w": 882,
+  "h": 397,
+  "text": "Q. 50 Consider a velocity field 𝑉⃗ = 3𝑧 𝑖̂ + 0 𝑗̂ + 𝐶𝑥 𝑘̂ , where C is a constant. If the flow is irrotational, the value of C is _________ (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 51,
+  "img": "me2025-s1-q51.webp",
+  "w": 870,
+  "h": 697,
+  "text": "Q. 51 Water enters a tube of diameter, D = 60 mm with mass flow rate of 0.01 kg s-1 as shown in the figure below. The inlet mean temperature is Tm,i = 293 K and the uniform heat flux at the surface of the tube is 2000 W m-2. For the exit mean temperature of Tm,o = 353 K, the length of the tube, L is ________m (rounded off to 1 decimal place). Use the specific heat of water as 4181 J kg-1 K-1."
+ },
+ {
+  "set": 1,
+  "n": 52,
+  "img": "me2025-s1-q52.webp",
+  "w": 882,
+  "h": 654,
+  "text": "Q. 52 A thermal power plant is running with no reheat or regeneration. The specific enthalpy and specific entropy of steam at the turbine inlet are 3344 kJ kg-1 and 6.5 kJ kg-1 K-1, respectively. The turbine isentropic efficiency is 0.9, and the mass flow rate of steam at the turbine inlet is 102 kg s-1. The turbine power output is _____________ MW (rounded off to 1 decimal place). Properties of saturated liquid and saturated vapor at turbine exit pressure Saturated liquid water Saturated water vapor Specific enthalpy Specific entropy Specific enthalpy Specific entropy (kJ kg-1) (kJ kg-1 K-1) (kJ kg-1) (kJ kg-1 K-1) 341 1.1 2645 7.6"
+ },
+ {
+  "set": 1,
+  "n": 53,
+  "img": "me2025-s1-q53.webp",
+  "w": 870,
+  "h": 325,
+  "text": "Q. 53 Consider a Pelton wheel of 1 m diameter. The magnitude of relative velocity of water at the bucket inlet is same as the magnitude of relative velocity of water at the bucket exit. The absolute speed of water at the bucket inlet is 125.66 m s-1. For maximum power output from the Pelton wheel, the rpm of the Pelton wheel is __________________ (rounded off to 1 decimal place)."
+ },
+ {
+  "set": 1,
+  "n": 54,
+  "img": "me2025-s1-q54.webp",
+  "w": 870,
+  "h": 423,
+  "text": "Q. 54 A thermodynamically closed system contains 1 kg of hydrogen. The system undergoes a reversible polytropic process with polytropic index 1.3. The work output during the process is 400 kJ. During the process, hydrogen behaves as an ideal gas with constant specific heats. The absolute value of heat transfer during the process is ____________ kJ (rounded off to 1 decimal place). Specific heat of hydrogen at constant pressure = 14.56 kJ kg-1 K-1 Specific heat of hydrogen at constant volume = 10.4 kJ kg-1 K-1"
+ },
+ {
+  "set": 1,
+  "n": 55,
+  "img": "me2025-s1-q55.webp",
+  "w": 882,
+  "h": 420,
+  "text": "Q. 55 A heat pump, operating in reversed Carnot cycle, maintains a steady air temperature of 300 K inside an auditorium. The heat pump receives heat from the ambient air. The ambient air temperature is 280 K. Heat loss from the auditorium is 15 kW. The power consumption of the heat pump is ____ kW (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 56,
+  "img": "me2025-s1-q56.webp",
+  "w": 870,
+  "h": 649,
+  "text": "Q.56 The state of stress at a point is shown in the figure given below. Under plane stress assumption, the normal strain along the thickness direction (εzz) is ____________ (rounded off to 2 decimal places). Use the Young’s Modulus and Poisson’s ratio 0.27. E = 200 GPa ν ="
+ },
+ {
+  "set": 1,
+  "n": 57,
+  "img": "me2025-s1-q57.webp",
+  "w": 882,
+  "h": 564,
+  "text": "Q.57 A simply supported beam of length 1 m is subjected to a uniformly distributed bending moment of 1 N m per m throughout the length as shown in the figure given below. The bending moment at the mid-point of the beam is _____N m (rounded off to the nearest integer)."
+ },
+ {
+  "set": 1,
+  "n": 58,
+  "img": "me2025-s1-q58.webp",
+  "w": 870,
+  "h": 637,
+  "text": "Q.58 An isotropic brittle material is tested in the universal testing machine. The stress- strain diagram for the material shows a bi-linear elastic behavior as shown in the figure given below. The strain energy density is ________ MJ m-3 (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 59,
+  "img": "me2025-s1-q59.webp",
+  "w": 882,
+  "h": 528,
+  "text": "Q.59 A pair of spur gears is required to maintain a velocity ratio of 1:2. The module of the gears is 10 mm and the addendum is 10 mm. If the operating pressure angle is 15°, the minimum number of teeth required on the pinion to ensure NO interference/undercutting is ____ (answer in integer)."
+ },
+ {
+  "set": 1,
+  "n": 60,
+  "img": "me2025-s1-q60.webp",
+  "w": 870,
+  "h": 596,
+  "text": "Q.60 An offset slider-crank mechanism is shown in the figure below. The length of the stroke of the slider is ______ mm (rounded off to nearest integer)."
+ },
+ {
+  "set": 1,
+  "n": 61,
+  "img": "me2025-s1-q61.webp",
+  "w": 882,
+  "h": 608,
+  "text": "Q.61 Two plates of thickness 10 mm each are to be joined by a transverse fillet weld on one side and the resulting structure is loaded as shown in the figure below. If the ultimate tensile strength of the weld material is 150 MPa and the factor of safety to be used is 3, the minimum length of the weld required to ensure that the weld does NOT fail is ______ mm (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 62,
+  "img": "me2025-s1-q62.webp",
+  "w": 870,
+  "h": 347,
+  "text": "Q.62 Two metal parts (a cylinder and a cube) of same volume are cast under identical conditions. The diameter of the cylinder is equal to its height. The ratio of the solidification time of the cube to that of the cylinder is________ (rounded off to 2 decimal places). Assume that solidification time follows Chvorinov’s rule with an exponent of 2."
+ },
+ {
+  "set": 1,
+  "n": 63,
+  "img": "me2025-s1-q63.webp",
+  "w": 870,
+  "h": 325,
+  "text": "Q.63 Cylindrical workpieces of diameter 60 mm and length 400 mm are machined on a lathe at a cutting speed of 25 m min-1 and a feed of 0.2 mm rev-1. The Taylor’s tool life parameters and for this setup are 75 and 0.25, respectively. The tool 𝐶 𝑛 changing time is 3 minutes. With a labor and overhead cost of ₹ 5 per minute, the tool changing cost per piece is ₹ _______ (rounded off to 2 decimal places)."
+ },
+ {
+  "set": 1,
+  "n": 64,
+  "img": "me2025-s1-q64.webp",
+  "w": 882,
+  "h": 602,
+  "text": "Q.64 A company uses 3000 units of a part annually. The units are priced as given in the table below. It costs ₹ 150 to place an order. Carrying costs are 40 percent of the purchase price per unit on an annual basis. The minimum total annual cost is ₹ _______ (rounded off to 1 decimal place). Order quantity Unit price (₹) 1 to 499 9.0 500 to 999 8.5 1000 or more 8.0"
+ },
+ {
+  "set": 1,
+  "n": 65,
+  "img": "me2025-s1-q65.webp",
+  "w": 870,
+  "h": 1062,
+  "text": "Q.65 A project involves eight activities with the precedence relationship and duration as shown in the table below. The slack for the activity D is _____ hours (answer in integer). Activity Immediate predecessor Duration (hours) A - 4 B A 8 C A 5 D B 2 E B 7 F C 6 G D 3 H E, F, G 9"
+ }
+]
