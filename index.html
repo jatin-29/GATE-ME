@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GATE ME PYQ — Mechanical Engineering previous-year questions</title>
+  <meta name="description" content="Topic-wise GATE Mechanical Engineering previous-year questions with answers and solutions. Free, no sign-up.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <meta name="theme-color" content="#08080e">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.11/katex.min.css">
+  <link rel="stylesheet" href="css/app.css">
+  <script>
+    window.BUILD = "1";
+    // apply the saved theme before first paint (dark unless the visitor chose otherwise)
+    try {
+      var t = JSON.parse(localStorage.getItem("gatepyq-me:v1")).settings.theme;
+      document.documentElement.dataset.theme = t === "light" || (t === "auto" && !matchMedia("(prefers-color-scheme: dark)").matches) ? "light" : "dark";
+    } catch (e) {}
+  </script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.11/katex.min.js"></script>
+</head>
+<body>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true"><symbol id="logo" viewBox="0 0 32 32"><rect width="32" height="32" rx="8" fill="#7c5cff"/><path d="M5 19c3.5 0 3.5-9 7-9s3.5 12 7 12 3.500-8 8-8" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="5" cy="19" r="2" fill="#fff"/><circle cx="27" cy="14" r="2" fill="#fff"/></symbol></svg>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="#/"><svg viewBox="0 0 32 32" aria-hidden="true"><use href="#logo"/></svg><span>GATE PYQ</span></a>
+      <div class="seg" id="branch-seg" hidden></div>
+      <nav class="nav" id="nav" aria-label="Sections"></nav>
+      <span class="spacer"></span>
+      <span class="streak" id="streak" hidden></span>
+      <button class="icon-btn" id="keys-btn" title="Keyboard shortcuts (?)" aria-label="Keyboard shortcuts">⌨</button>
+      <a class="icon-btn" id="badges-link" href="#/badges" title="Badges" aria-label="Badges">🏅</a>
+      <a class="icon-btn" id="settings-link" href="#/settings" title="Settings &amp; backup" aria-label="Settings"></a>
+      <button class="icon-btn" id="theme-btn" title="Toggle theme" aria-label="Toggle theme"></button>
+    </div>
+  </header>
+  <main id="app"><div class="empty">Loading…</div></main>
+  <footer class="site-foot">
+    <span>GATE PYQ · Mechanical Engineering</span>
+    <span>Progress is stored only on this device — <a href="#/settings">back it up</a> now and then.</span>
+  </footer>
+  <script>
+    // If the app fails to start (blocked script, stale cache, old browser) say so instead of hanging on "Loading…".
+    function gateFatal(msg) {
+      var app = document.getElementById("app");
+      if (app && /Loading/.test(app.textContent)) app.innerHTML = '<div class="empty"><h3>The app could not start</h3><p>' + msg + '</p><p><button class="btn" onclick="location.reload()">Reload</button></p></div>';
+    }
+    addEventListener("error", function (e) { gateFatal(String(e.message || "script error").replace(/</g, "&lt;")); });
+    setTimeout(function () { gateFatal("It is taking too long to load. Check your connection, then reload; if it keeps happening, clear this site's data and try again."); }, 20000);
+  </script>
+  <noscript><p style="padding:24px">This site needs JavaScript.</p></noscript>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

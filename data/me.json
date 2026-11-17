@@ -1,0 +1,585 @@
+{
+ "branch": "me",
+ "title": "Mechanical Engineering",
+ "subjects": [
+  {
+   "id": "general-aptitude",
+   "name": "General Aptitude",
+   "color": "#f59e0b",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "verbal-ability",
+     "name": "Verbal Ability",
+     "aliases": []
+    },
+    {
+     "id": "numerical-ability",
+     "name": "Numerical Ability",
+     "aliases": []
+    },
+    {
+     "id": "logical-reasoning",
+     "name": "Logical Reasoning",
+     "aliases": []
+    },
+    {
+     "id": "spatial-aptitude",
+     "name": "Spatial Aptitude",
+     "aliases": []
+    }
+   ]
+  },
+  {
+   "id": "engineering-mathematics",
+   "name": "Engineering Mathematics",
+   "color": "#6366f1",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "linear-algebra",
+     "name": "Linear Algebra",
+     "aliases": []
+    },
+    {
+     "id": "calculus",
+     "name": "Calculus",
+     "aliases": []
+    },
+    {
+     "id": "vector-calculus",
+     "name": "Vector Calculus",
+     "aliases": []
+    },
+    {
+     "id": "differential-equations",
+     "name": "Differential Equations",
+     "aliases": []
+    },
+    {
+     "id": "complex-variables",
+     "name": "Complex Variables",
+     "aliases": []
+    },
+    {
+     "id": "probability-and-statistics",
+     "name": "Probability and Statistics",
+     "aliases": []
+    },
+    {
+     "id": "numerical-methods",
+     "name": "Numerical Methods",
+     "aliases": []
+    }
+   ]
+  },
+  {
+   "id": "engineering-mechanics",
+   "name": "Engineering Mechanics",
+   "color": "#0ea5e9",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "force-systems-and-equilibrium",
+     "name": "Force Systems and Equilibrium",
+     "aliases": []
+    },
+    {
+     "id": "trusses-and-frames",
+     "name": "Trusses and Frames",
+     "aliases": []
+    },
+    {
+     "id": "friction",
+     "name": "Friction",
+     "aliases": []
+    },
+    {
+     "id": "kinematics-of-particles-and-rigid-bodies",
+     "name": "Kinematics of Particles and Rigid Bodies",
+     "aliases": []
+    },
+    {
+     "id": "kinetics-work-and-energy",
+     "name": "Kinetics, Work and Energy",
+     "aliases": []
+    },
+    {
+     "id": "impulse-momentum-and-collisions",
+     "name": "Impulse, Momentum and Collisions",
+     "aliases": []
+    },
+    {
+     "id": "virtual-work",
+     "name": "Virtual Work",
+     "aliases": []
+    }
+   ]
+  },
+  {
+   "id": "strength-of-materials",
+   "name": "Strength of Materials",
+   "color": "#14b8a6",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "stress-and-strain",
+     "name": "Stress and Strain",
+     "aliases": []
+    },
+    {
+     "id": "elastic-constants-and-thermal-stresses",
+     "name": "Elastic Constants and Thermal Stresses",
+     "aliases": []
+    },
+    {
+     "id": "principal-stresses-and-mohr-s-circle",
+     "name": "Principal Stresses and Mohr's Circle",
+     "aliases": []
+    },
+    {
+     "id": "shear-force-and-bending-moment",
+     "name": "Shear Force and Bending Moment",
+     "aliases": []
+    },
+    {
+     "id": "bending-and-shear-stresses-in-beams",
+     "name": "Bending and Shear Stresses in Beams",
+     "aliases": []
+    },
+    {
+     "id": "deflection-of-beams",
+     "name": "Deflection of Beams",
+     "aliases": []
+    },
+    {
+     "id": "torsion-of-shafts",
+     "name": "Torsion of Shafts",
+     "aliases": []
+    },
+    {
+     "id": "columns-and-struts",
+     "name": "Columns and Struts",
+     "aliases": []
+    },
+    {
+     "id": "thin-and-thick-cylinders",
+     "name": "Thin and Thick Cylinders",
+     "aliases": []
+    },
+    {
+     "id": "strain-energy-and-theories-of-failure",
+     "name": "Strain Energy and Theories of Failure",
+     "aliases": []
+    }
+   ]
+  },
+  {
+   "id": "theory-of-machines",
+   "name": "Theory of Machines",
+   "color": "#8b5cf6",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "mechanisms-and-kinematic-analysis",
+     "name": "Mechanisms and Kinematic Analysis",
+     "aliases": []
+    },
+    {
+     "id": "cams",
+     "name": "Cams",
+     "aliases": []
+    },
+    {
+     "id": "gears-and-gear-trains",
+     "name": "Gears and Gear Trains",
+     "aliases": []
+    },
+    {
+     "id": "flywheels-and-governors",
+     "name": "Flywheels and Governors",
+     "aliases": []
+    },
+    {
+     "id": "balancing",
+     "name": "Balancing",
+     "aliases": []
+    },
+    {
+     "id": "gyroscope",
+     "name": "Gyroscope",
+     "aliases": []
+    },
+    {
+     "id": "dynamic-analysis-of-linkages",
+     "name": "Dynamic Analysis of Linkages",
+     "aliases": []
+    }
+   ]
+  },
+  {
+   "id": "vibrations",
+   "name": "Vibrations",
+   "color": "#ec4899",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "free-vibration-of-single-dof-systems",
+     "name": "Free Vibration of Single DOF Systems",
+     "aliases": []
+    },
+    {
+     "id": "damped-vibration",
+     "name": "Damped Vibration",
+     "aliases": []
+    },
+    {
+     "id": "forced-vibration-and-resonance",
+     "name": "Forced Vibration and Resonance",
+     "aliases": []
+    },
+    {
+     "id": "vibration-isolation",
+     "name": "Vibration Isolation",
+     "aliases": []
+    },
+    {
+     "id": "critical-speed-of-shafts",
+     "name": "Critical Speed of Shafts",
+     "aliases": []
+    }
+   ]
+  },
+  {
+   "id": "machine-design",
+   "name": "Machine Design",
+   "color": "#f97316",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "static-and-fatigue-loading",
+     "name": "Static and Fatigue Loading",
+     "aliases": []
+    },
+    {
+     "id": "bolted-riveted-and-welded-joints",
+     "name": "Bolted, Riveted and Welded Joints",
+     "aliases": []
+    },
+    {
+     "id": "shafts-keys-and-couplings",
+     "name": "Shafts, Keys and Couplings",
+     "aliases": []
+    },
+    {
+     "id": "gears",
+     "name": "Gears",
+     "aliases": []
+    },
+    {
+     "id": "bearings",
+     "name": "Bearings",
+     "aliases": []
+    },
+    {
+     "id": "brakes-and-clutches",
+     "name": "Brakes and Clutches",
+     "aliases": []
+    },
+    {
+     "id": "springs",
+     "name": "Springs",
+     "aliases": []
+    }
+   ]
+  },
+  {
+   "id": "fluid-mechanics",
+   "name": "Fluid Mechanics",
+   "color": "#06b6d4",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "fluid-properties",
+     "name": "Fluid Properties",
+     "aliases": []
+    },
+    {
+     "id": "fluid-statics-and-buoyancy",
+     "name": "Fluid Statics and Buoyancy",
+     "aliases": []
+    },
+    {
+     "id": "fluid-kinematics",
+     "name": "Fluid Kinematics",
+     "aliases": []
+    },
+    {
+     "id": "bernoulli-s-equation-and-flow-measurement",
+     "name": "Bernoulli's Equation and Flow Measurement",
+     "aliases": []
+    },
+    {
+     "id": "viscous-flow-and-pipe-flow",
+     "name": "Viscous Flow and Pipe Flow",
+     "aliases": []
+    },
+    {
+     "id": "boundary-layer",
+     "name": "Boundary Layer",
+     "aliases": []
+    },
+    {
+     "id": "dimensional-analysis",
+     "name": "Dimensional Analysis",
+     "aliases": []
+    },
+    {
+     "id": "turbulent-flow",
+     "name": "Turbulent Flow",
+     "aliases": []
+    },
+    {
+     "id": "turbomachinery-turbines-and-pumps",
+     "name": "Turbomachinery: Turbines and Pumps",
+     "aliases": []
+    }
+   ]
+  },
+  {
+   "id": "heat-transfer",
+   "name": "Heat Transfer",
+   "color": "#ef4444",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "conduction",
+     "name": "Conduction",
+     "aliases": []
+    },
+    {
+     "id": "fins-and-unsteady-conduction",
+     "name": "Fins and Unsteady Conduction",
+     "aliases": []
+    },
+    {
+     "id": "convection",
+     "name": "Convection",
+     "aliases": []
+    },
+    {
+     "id": "radiation",
+     "name": "Radiation",
+     "aliases": []
+    },
+    {
+     "id": "heat-exchangers",
+     "name": "Heat Exchangers",
+     "aliases": []
+    }
+   ]
+  },
+  {
+   "id": "thermodynamics",
+   "name": "Thermodynamics",
+   "color": "#eab308",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "basic-concepts-and-zeroth-law",
+     "name": "Basic Concepts and Zeroth Law",
+     "aliases": []
+    },
+    {
+     "id": "first-law",
+     "name": "First Law",
+     "aliases": []
+    },
+    {
+     "id": "second-law-and-entropy",
+     "name": "Second Law and Entropy",
+     "aliases": []
+    },
+    {
+     "id": "availability-and-irreversibility",
+     "name": "Availability and Irreversibility",
+     "aliases": []
+    },
+    {
+     "id": "properties-of-pure-substances",
+     "name": "Properties of Pure Substances",
+     "aliases": []
+    },
+    {
+     "id": "thermodynamic-relations",
+     "name": "Thermodynamic Relations",
+     "aliases": []
+    },
+    {
+     "id": "ideal-gases-and-mixtures",
+     "name": "Ideal Gases and Mixtures",
+     "aliases": []
+    }
+   ]
+  },
+  {
+   "id": "applications-of-thermodynamics",
+   "name": "Applications of Thermodynamics",
+   "color": "#84cc16",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "power-cycles-rankine-and-brayton",
+     "name": "Power Cycles: Rankine and Brayton",
+     "aliases": []
+    },
+    {
+     "id": "ic-engines-and-air-standard-cycles",
+     "name": "IC Engines and Air-Standard Cycles",
+     "aliases": []
+    },
+    {
+     "id": "refrigeration",
+     "name": "Refrigeration",
+     "aliases": []
+    },
+    {
+     "id": "psychrometry-and-air-conditioning",
+     "name": "Psychrometry and Air Conditioning",
+     "aliases": []
+    },
+    {
+     "id": "compressors",
+     "name": "Compressors",
+     "aliases": []
+    }
+   ]
+  },
+  {
+   "id": "engineering-materials",
+   "name": "Engineering Materials",
+   "color": "#a855f7",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "structure-and-properties-of-materials",
+     "name": "Structure and Properties of Materials",
+     "aliases": []
+    },
+    {
+     "id": "phase-diagrams",
+     "name": "Phase Diagrams",
+     "aliases": []
+    },
+    {
+     "id": "heat-treatment",
+     "name": "Heat Treatment",
+     "aliases": []
+    },
+    {
+     "id": "stress-strain-behaviour",
+     "name": "Stress-Strain Behaviour",
+     "aliases": []
+    }
+   ]
+  },
+  {
+   "id": "manufacturing-engineering",
+   "name": "Manufacturing Engineering",
+   "color": "#10b981",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "casting",
+     "name": "Casting",
+     "aliases": []
+    },
+    {
+     "id": "forming",
+     "name": "Forming",
+     "aliases": []
+    },
+    {
+     "id": "joining-and-welding",
+     "name": "Joining and Welding",
+     "aliases": []
+    },
+    {
+     "id": "machining-and-machine-tools",
+     "name": "Machining and Machine Tools",
+     "aliases": []
+    },
+    {
+     "id": "non-traditional-machining",
+     "name": "Non-Traditional Machining",
+     "aliases": []
+    },
+    {
+     "id": "metrology-and-inspection",
+     "name": "Metrology and Inspection",
+     "aliases": []
+    },
+    {
+     "id": "computer-integrated-manufacturing",
+     "name": "Computer Integrated Manufacturing",
+     "aliases": []
+    },
+    {
+     "id": "additive-manufacturing",
+     "name": "Additive Manufacturing",
+     "aliases": []
+    }
+   ]
+  },
+  {
+   "id": "industrial-engineering",
+   "name": "Industrial Engineering",
+   "color": "#3b82f6",
+   "aliases": [],
+   "topics": [
+    {
+     "id": "production-planning-and-control",
+     "name": "Production Planning and Control",
+     "aliases": []
+    },
+    {
+     "id": "inventory-control",
+     "name": "Inventory Control",
+     "aliases": []
+    },
+    {
+     "id": "operations-research-linear-programming",
+     "name": "Operations Research: Linear Programming",
+     "aliases": []
+    },
+    {
+     "id": "transportation-and-assignment",
+     "name": "Transportation and Assignment",
+     "aliases": []
+    },
+    {
+     "id": "queuing-theory",
+     "name": "Queuing Theory",
+     "aliases": []
+    },
+    {
+     "id": "pert-and-cpm",
+     "name": "PERT and CPM",
+     "aliases": []
+    },
+    {
+     "id": "forecasting",
+     "name": "Forecasting",
+     "aliases": []
+    },
+    {
+     "id": "work-study-and-line-balancing",
+     "name": "Work Study and Line Balancing",
+     "aliases": []
+    }
+   ]
+  }
+ ],
+ "papers": [],
+ "questions": []
+}
